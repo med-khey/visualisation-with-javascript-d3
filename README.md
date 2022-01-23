@@ -1,6 +1,6 @@
 # Data visualisation
 
-The aim of this projet is to build data interactive chart using [D3](https://d3js.org/) javascript library. 
+The aim of this projet is to build data interactive charts using [D3](https://d3js.org/) javascript library. 
 
 
 
