@@ -1,0 +1,4998 @@
+{
+  "male": [
+    {
+      "city": "Kensington and Chelsea",
+      "Latitude": 51.49722106162824,
+      "Longitude": -0.1869026774836322,
+      "count": 7026
+    },
+    {
+      "city": "Westminster",
+      "Latitude": 51.512179500295765,
+      "Longitude": -0.15409501721984883,
+      "count": 15215
+    },
+    {
+      "city": "Hammersmith and Fulham",
+      "Latitude": 51.493742807464365,
+      "Longitude": -0.21876937578087455,
+      "count": 6243
+    },
+    {
+      "city": "City of London",
+      "Latitude": 51.51408452686611,
+      "Longitude": -0.09211150943944235,
+      "count": 3443
+    },
+    {
+      "city": "Southwark",
+      "Latitude": 51.48258637384117,
+      "Longitude": -0.08078788182732045,
+      "count": 8953
+    },
+    {
+      "city": "Hackney",
+      "Latitude": 51.5495353085813,
+      "Longitude": -0.0695211608660999,
+      "count": 7528
+    },
+    {
+      "city": "Islington",
+      "Latitude": 51.54504189629948,
+      "Longitude": -0.108668357286288,
+      "count": 6972
+    },
+    {
+      "city": "Camden",
+      "Latitude": 51.535524534369785,
+      "Longitude": -0.1452107548503148,
+      "count": 7783
+    },
+    {
+      "city": "Lambeth",
+      "Latitude": 51.46102040731917,
+      "Longitude": -0.1198255877251501,
+      "count": 10493
+    },
+    {
+      "city": "Brent",
+      "Latitude": 51.55487331394897,
+      "Longitude": -0.26087521629322624,
+      "count": 7721
+    },
+    {
+      "city": "Haringey",
+      "Latitude": 51.590329797253865,
+      "Longitude": -0.09658874043236927,
+      "count": 6846
+    },
+    {
+      "city": "Barnet",
+      "Latitude": 51.60225252213946,
+      "Longitude": -0.21412258835092077,
+      "count": 9666
+    },
+    {
+      "city": "Richmond upon Thames",
+      "Latitude": 51.44953966374871,
+      "Longitude": -0.31288204042224516,
+      "count": 3884
+    },
+    {
+      "city": "Ealing",
+      "Latitude": 51.522340093815295,
+      "Longitude": -0.32782417060175517,
+      "count": 9572
+    },
+    {
+      "city": "Tower Hamlets",
+      "Latitude": 51.517810909219854,
+      "Longitude": -0.042087242989634475,
+      "count": 9165
+    },
+    {
+      "city": "Waltham Forest",
+      "Latitude": 51.58643174449712,
+      "Longitude": -0.011455251608533695,
+      "count": 5906
+    },
+    {
+      "city": "Newham",
+      "Latitude": 51.531805138091336,
+      "Longitude": 0.034927143423571234,
+      "count": 7314
+    },
+    {
+      "city": "London Airport (Heathrow)",
+      "Latitude": 51.47106622966508,
+      "Longitude": -0.45638226794258374,
+      "count": 418
+    },
+    {
+      "city": "Hillingdon",
+      "Latitude": 51.52575229204733,
+      "Longitude": -0.4379448360041935,
+      "count": 6677
+    },
+    {
+      "city": "Hounslow",
+      "Latitude": 51.47520557790829,
+      "Longitude": -0.3530822156691241,
+      "count": 8003
+    },
+    {
+      "city": "Redbridge",
+      "Latitude": 51.57719088576261,
+      "Longitude": 0.06845979858548586,
+      "count": 6504
+    },
+    {
+      "city": "Barking and Dagenham",
+      "Latitude": 51.54517411128958,
+      "Longitude": 0.12155090477283155,
+      "count": 4358
+    },
+    {
+      "city": "Havering",
+      "Latitude": 51.56925292647059,
+      "Longitude": 0.20814050179340027,
+      "count": 5576
+    },
+    {
+      "city": "Croydon",
+      "Latitude": 51.37390989457755,
+      "Longitude": -0.0971729075662043,
+      "count": 7930
+    },
+    {
+      "city": "Wandsworth",
+      "Latitude": 51.45209110380349,
+      "Longitude": -0.17866756791940233,
+      "count": 8834
+    },
+    {
+      "city": "Lewisham",
+      "Latitude": 51.45279572713016,
+      "Longitude": -0.022671078149503397,
+      "count": 7652
+    },
+    {
+      "city": "Greenwich",
+      "Latitude": 51.47519299937995,
+      "Longitude": 0.044795772903425825,
+      "count": 6451
+    },
+    {
+      "city": "Bromley",
+      "Latitude": 51.39199413100649,
+      "Longitude": 0.027017234090909087,
+      "count": 6160
+    },
+    {
+      "city": "Bexley",
+      "Latitude": 51.45658660082705,
+      "Longitude": 0.13547945949890539,
+      "count": 4111
+    },
+    {
+      "city": "Harrow",
+      "Latitude": 51.59082590800369,
+      "Longitude": -0.3378964339159767,
+      "count": 3261
+    },
+    {
+      "city": "Sutton",
+      "Latitude": 51.36752705877088,
+      "Longitude": -0.18271880399761337,
+      "count": 3352
+    },
+    {
+      "city": "Enfield",
+      "Latitude": 51.63894869697384,
+      "Longitude": -0.07687601232370259,
+      "count": 7303
+    },
+    {
+      "city": "Kingston upon Thames",
+      "Latitude": 51.394861387126866,
+      "Longitude": -0.28668562468905473,
+      "count": 3216
+    },
+    {
+      "city": "Merton",
+      "Latitude": 51.40938706702728,
+      "Longitude": -0.18755228857008469,
+      "count": 4252
+    },
+    {
+      "city": "South Lakeland",
+      "Latitude": 54.28679513731246,
+      "Longitude": -2.8597725264187868,
+      "count": 3066
+    },
+    {
+      "city": "Barrow-in-Furness",
+      "Latitude": 54.12716604128819,
+      "Longitude": -3.2149368158546654,
+      "count": 1211
+    },
+    {
+      "city": "Carlisle",
+      "Latitude": 54.90528819200317,
+      "Longitude": -2.9103711789390343,
+      "count": 2526
+    },
+    {
+      "city": "Eden",
+      "Latitude": 54.625624496482416,
+      "Longitude": -2.666831984924623,
+      "count": 1990
+    },
+    {
+      "city": "Copeland",
+      "Latitude": 54.48023771376147,
+      "Longitude": -3.503237856269113,
+      "count": 1635
+    },
+    {
+      "city": "Allerdale",
+      "Latitude": 54.693404119913424,
+      "Longitude": -3.3623892580086583,
+      "count": 2310
+    },
+    {
+      "city": "Blackpool",
+      "Latitude": 53.81567824490358,
+      "Longitude": -3.0357585429752065,
+      "count": 3633
+    },
+    {
+      "city": "Fylde",
+      "Latitude": 53.78481092424243,
+      "Longitude": -2.9406291197458456,
+      "count": 2046
+    },
+    {
+      "city": "Lancaster",
+      "Latitude": 54.06189795050588,
+      "Longitude": -2.797601763467323,
+      "count": 3657
+    },
+    {
+      "city": "Blackburn with Darwen",
+      "Latitude": 53.73302509455819,
+      "Longitude": -2.4780311166487072,
+      "count": 3712
+    },
+    {
+      "city": "Preston",
+      "Latitude": 53.776503054493524,
+      "Longitude": -2.7014267134695675,
+      "count": 4551
+    },
+    {
+      "city": "Wyre",
+      "Latitude": 53.888212315973746,
+      "Longitude": -2.9346969216630194,
+      "count": 2285
+    },
+    {
+      "city": "West Lancashire",
+      "Latitude": 53.583963424613174,
+      "Longitude": -2.8428759341489744,
+      "count": 2779
+    },
+    {
+      "city": "Chorley",
+      "Latitude": 53.662817405188164,
+      "Longitude": -2.643696230544392,
+      "count": 2737
+    },
+    {
+      "city": "South Ribble",
+      "Latitude": 53.72787418249837,
+      "Longitude": -2.67168668379961,
+      "count": 3074
+    },
+    {
+      "city": "Hyndburn",
+      "Latitude": 53.75800313027426,
+      "Longitude": -2.3879864657173,
+      "count": 1898
+    },
+    {
+      "city": "Ribble Valley",
+      "Latitude": 53.85031999540582,
+      "Longitude": -2.427386071975498,
+      "count": 1306
+    },
+    {
+      "city": "Pendle",
+      "Latitude": 53.85224045470086,
+      "Longitude": -2.199486017094017,
+      "count": 1755
+    },
+    {
+      "city": "Rossendale",
+      "Latitude": 53.69890741625616,
+      "Longitude": -2.282534040024631,
+      "count": 1624
+    },
+    {
+      "city": "Burnley",
+      "Latitude": 53.790741456600365,
+      "Longitude": -2.25470231238698,
+      "count": 2214
+    },
+    {
+      "city": "Wirral",
+      "Latitude": 53.378341530059934,
+      "Longitude": -3.051239405953992,
+      "count": 5173
+    },
+    {
+      "city": "Sefton",
+      "Latitude": 53.536721913327526,
+      "Longitude": -2.990903363893728,
+      "count": 4592
+    },
+    {
+      "city": "Knowsley",
+      "Latitude": 53.425914354895106,
+      "Longitude": -2.843221277972028,
+      "count": 2860
+    },
+    {
+      "city": "Liverpool",
+      "Latitude": 53.41056292883116,
+      "Longitude": -2.9358315528138528,
+      "count": 11550
+    },
+    {
+      "city": "St. Helens",
+      "Latitude": 53.45194228187919,
+      "Longitude": -2.715868905125076,
+      "count": 3278
+    },
+    {
+      "city": "Manchester",
+      "Latitude": 53.46296118845546,
+      "Longitude": -2.2275095998945704,
+      "count": 11382
+    },
+    {
+      "city": "Salford",
+      "Latitude": 53.49560593776872,
+      "Longitude": -2.339564295994569,
+      "count": 4419
+    },
+    {
+      "city": "Rochdale",
+      "Latitude": 53.59959222815265,
+      "Longitude": -2.167640102876106,
+      "count": 3616
+    },
+    {
+      "city": "Trafford",
+      "Latitude": 53.434916621731,
+      "Longitude": -2.3291687848692404,
+      "count": 3212
+    },
+    {
+      "city": "Stockport",
+      "Latitude": 53.40146845641448,
+      "Longitude": -2.156851485471491,
+      "count": 3648
+    },
+    {
+      "city": "Wigan",
+      "Latitude": 53.52238035762876,
+      "Longitude": -2.5915285464042763,
+      "count": 4116
+    },
+    {
+      "city": "Tameside",
+      "Latitude": 53.474828299378885,
+      "Longitude": -2.090185007763975,
+      "count": 3220
+    },
+    {
+      "city": "Bolton",
+      "Latitude": 53.5720162237525,
+      "Longitude": -2.445901588223553,
+      "count": 5010
+    },
+    {
+      "city": "Bury",
+      "Latitude": 53.57203115435795,
+      "Longitude": -2.294872151696607,
+      "count": 3006
+    },
+    {
+      "city": "Oldham",
+      "Latitude": 53.541610756670224,
+      "Longitude": -2.1142243425827107,
+      "count": 3748
+    },
+    {
+      "city": "Warrington",
+      "Latitude": 53.39886133228236,
+      "Longitude": -2.5687607376072865,
+      "count": 5709
+    },
+    {
+      "city": "Macclesfield",
+      "Latitude": 53.30466817250213,
+      "Longitude": -2.2734946806148595,
+      "count": 1171
+    },
+    {
+      "city": "Crewe and Nantwich",
+      "Latitude": 53.0824787614679,
+      "Longitude": -2.4682377213302757,
+      "count": 872
+    },
+    {
+      "city": "Halton",
+      "Latitude": 53.34667954241338,
+      "Longitude": -2.71753400876145,
+      "count": 2511
+    },
+    {
+      "city": "Ellesmere Port and Neston",
+      "Latitude": 53.27964410994764,
+      "Longitude": -2.939725057591623,
+      "count": 382
+    },
+    {
+      "city": "Vale Royal",
+      "Latitude": 53.23815386363637,
+      "Longitude": -2.5426130800865803,
+      "count": 924
+    },
+    {
+      "city": "Chester",
+      "Latitude": 53.196982698170736,
+      "Longitude": -2.8623475162601624,
+      "count": 987
+    },
+    {
+      "city": "Congleton",
+      "Latitude": 53.159333990506326,
+      "Longitude": -2.32503930221519,
+      "count": 633
+    },
+    {
+      "city": "Newcastle upon Tyne",
+      "Latitude": 54.98594725206554,
+      "Longitude": -1.630971661111889,
+      "count": 7141
+    },
+    {
+      "city": "Sunderland",
+      "Latitude": 54.893193683074735,
+      "Longitude": -1.4368289545211343,
+      "count": 5607
+    },
+    {
+      "city": "North Tyneside",
+      "Latitude": 55.021729964377904,
+      "Longitude": -1.514840862157976,
+      "count": 3874
+    },
+    {
+      "city": "Wansbeck",
+      "Latitude": 55.16322244728435,
+      "Longitude": -1.5716694600638978,
+      "count": 313
+    },
+    {
+      "city": "Blyth Valley",
+      "Latitude": 55.09726773146292,
+      "Longitude": -1.5567115531062123,
+      "count": 499
+    },
+    {
+      "city": "South Tyneside",
+      "Latitude": 54.97073804556452,
+      "Longitude": -1.451144164516129,
+      "count": 2480
+    },
+    {
+      "city": "Tynedale",
+      "Latitude": 55.01304445691383,
+      "Longitude": -2.1318974609218437,
+      "count": 499
+    },
+    {
+      "city": "Gateshead",
+      "Latitude": 54.94238688122321,
+      "Longitude": -1.626675846354652,
+      "count": 5363
+    },
+    {
+      "city": "Alnwick",
+      "Latitude": 55.36505642,
+      "Longitude": -1.757049568,
+      "count": 250
+    },
+    {
+      "city": "Berwick-upon-Tweed",
+      "Latitude": 55.67350228472222,
+      "Longitude": -1.9730825069444444,
+      "count": 144
+    },
+    {
+      "city": "Castle Morpeth",
+      "Latitude": 55.155771858789635,
+      "Longitude": -1.7188024755043227,
+      "count": 347
+    },
+    {
+      "city": "Wear Valley",
+      "Latitude": 54.685845561712846,
+      "Longitude": -1.7444188841309822,
+      "count": 397
+    },
+    {
+      "city": "Sedgefield",
+      "Latitude": 54.656673959915615,
+      "Longitude": -1.5543328333333335,
+      "count": 474
+    },
+    {
+      "city": "Durham",
+      "Latitude": 54.77148829918699,
+      "Longitude": -1.5625027040650408,
+      "count": 615
+    },
+    {
+      "city": "Chester-le-Street",
+      "Latitude": 54.85684362301587,
+      "Longitude": -1.5782167777777778,
+      "count": 252
+    },
+    {
+      "city": "Easington",
+      "Latitude": 54.77680839270386,
+      "Longitude": -1.3559702575107295,
+      "count": 466
+    },
+    {
+      "city": "Derwentside",
+      "Latitude": 54.85613763073395,
+      "Longitude": -1.760348639908257,
+      "count": 436
+    },
+    {
+      "city": "Teesdale",
+      "Latitude": 54.572416825000005,
+      "Longitude": -1.9070094000000002,
+      "count": 160
+    },
+    {
+      "city": "Darlington",
+      "Latitude": 54.53655825617566,
+      "Longitude": -1.5562916903019213,
+      "count": 2186
+    },
+    {
+      "city": "Selby",
+      "Latitude": 53.796887225133695,
+      "Longitude": -1.1613707224598933,
+      "count": 1870
+    },
+    {
+      "city": "Harrogate",
+      "Latitude": 54.02349089155815,
+      "Longitude": -1.5061535316569377,
+      "count": 4454
+    },
+    {
+      "city": "Hambleton",
+      "Latitude": 54.289361828372634,
+      "Longitude": -1.3580147723231544,
+      "count": 2587
+    },
+    {
+      "city": "Craven",
+      "Latitude": 54.00992278786127,
+      "Longitude": -2.130080782080925,
+      "count": 1730
+    },
+    {
+      "city": "Ryedale",
+      "Latitude": 54.175011893794746,
+      "Longitude": -0.8183710584725538,
+      "count": 1676
+    },
+    {
+      "city": "York",
+      "Latitude": 53.96329462120806,
+      "Longitude": -1.0793570351677853,
+      "count": 3725
+    },
+    {
+      "city": "Scarborough",
+      "Latitude": 54.32239420427236,
+      "Longitude": -0.4858190511793503,
+      "count": 2247
+    },
+    {
+      "city": "Richmondshire",
+      "Latitude": 54.39352515662652,
+      "Longitude": -1.752672846987952,
+      "count": 1660
+    },
+    {
+      "city": "Bradford",
+      "Latitude": 53.810695507149134,
+      "Longitude": -1.7865590544771943,
+      "count": 12519
+    },
+    {
+      "city": "Kirklees",
+      "Latitude": 53.6706245274165,
+      "Longitude": -1.7316827764020393,
+      "count": 9611
+    },
+    {
+      "city": "Leeds",
+      "Latitude": 53.802464429573504,
+      "Longitude": -1.5468153683887154,
+      "count": 19531
+    },
+    {
+      "city": "Wakefield",
+      "Latitude": 53.67479671511789,
+      "Longitude": -1.4145676067961166,
+      "count": 7210
+    },
+    {
+      "city": "Calderdale",
+      "Latitude": 53.71062204264441,
+      "Longitude": -1.8780465706227436,
+      "count": 4432
+    },
+    {
+      "city": "Doncaster",
+      "Latitude": 53.5292658370115,
+      "Longitude": -1.1261969155172415,
+      "count": 8700
+    },
+    {
+      "city": "Barnsley",
+      "Latitude": 53.54152008728367,
+      "Longitude": -1.4738773408577879,
+      "count": 5317
+    },
+    {
+      "city": "Sheffield",
+      "Latitude": 53.38748039464543,
+      "Longitude": -1.4585436075574005,
+      "count": 11807
+    },
+    {
+      "city": "Rotherham",
+      "Latitude": 53.420711779283494,
+      "Longitude": -1.3168553848909657,
+      "count": 6420
+    },
+    {
+      "city": "North East Lincolnshire",
+      "Latitude": 53.56116431025897,
+      "Longitude": -0.09452073381474105,
+      "count": 4016
+    },
+    {
+      "city": "North Lincolnshire",
+      "Latitude": 53.584621300897496,
+      "Longitude": -0.5959775028341995,
+      "count": 4234
+    },
+    {
+      "city": "East Riding of Yorkshire",
+      "Latitude": 53.85103621058434,
+      "Longitude": -0.48924534440463063,
+      "count": 7256
+    },
+    {
+      "city": "Kingston upon Hull, City of",
+      "Latitude": 53.75721068439662,
+      "Longitude": -0.3413071112990007,
+      "count": 6505
+    },
+    {
+      "city": "Hartlepool",
+      "Latitude": 54.678214559701495,
+      "Longitude": -1.2321682067164177,
+      "count": 1340
+    },
+    {
+      "city": "Redcar and Cleveland",
+      "Latitude": 54.57099362519685,
+      "Longitude": -1.0670863217847768,
+      "count": 1905
+    },
+    {
+      "city": "Middlesbrough",
+      "Latitude": 54.55719373949276,
+      "Longitude": -1.232775081521739,
+      "count": 2760
+    },
+    {
+      "city": "Stockton-on-Tees",
+      "Latitude": 54.57017708198381,
+      "Longitude": -1.3153085937921727,
+      "count": 2964
+    },
+    {
+      "city": "Birmingham",
+      "Latitude": 52.47836992378311,
+      "Longitude": -1.880552660883576,
+      "count": 26687
+    },
+    {
+      "city": "Wolverhampton",
+      "Latitude": 52.5855025922471,
+      "Longitude": -2.117452068615257,
+      "count": 4824
+    },
+    {
+      "city": "Walsall",
+      "Latitude": 52.5917884968661,
+      "Longitude": -1.9909689014245013,
+      "count": 5265
+    },
+    {
+      "city": "Dudley",
+      "Latitude": 52.48933220480711,
+      "Longitude": -2.103006111694607,
+      "count": 4951
+    },
+    {
+      "city": "Sandwell",
+      "Latitude": 52.51236056274569,
+      "Longitude": -2.0044143371635923,
+      "count": 6614
+    },
+    {
+      "city": "Solihull",
+      "Latitude": 52.43247615626741,
+      "Longitude": -1.7610433534818943,
+      "count": 3591
+    },
+    {
+      "city": "Coventry",
+      "Latitude": 52.41484105379798,
+      "Longitude": -1.5036178259193833,
+      "count": 6227
+    },
+    {
+      "city": "Stoke-on-Trent",
+      "Latitude": 53.01625006499015,
+      "Longitude": -2.1687994867444327,
+      "count": 6615
+    },
+    {
+      "city": "Newcastle-under-Lyme",
+      "Latitude": 53.026745093372504,
+      "Longitude": -2.262040996082272,
+      "count": 3063
+    },
+    {
+      "city": "Stafford",
+      "Latitude": 52.851710785159185,
+      "Longitude": -2.140952053146152,
+      "count": 3991
+    },
+    {
+      "city": "Staffordshire Moorlands",
+      "Latitude": 53.05097315491693,
+      "Longitude": -2.0327797988325105,
+      "count": 2227
+    },
+    {
+      "city": "East Staffordshire",
+      "Latitude": 52.83219857117751,
+      "Longitude": -1.7087489835969538,
+      "count": 3414
+    },
+    {
+      "city": "Cannock Chase",
+      "Latitude": 52.701961814223516,
+      "Longitude": -1.9960012636671505,
+      "count": 2067
+    },
+    {
+      "city": "South Staffordshire",
+      "Latitude": 52.638275606744635,
+      "Longitude": -2.126144235246125,
+      "count": 3677
+    },
+    {
+      "city": "Lichfield",
+      "Latitude": 52.67308409559614,
+      "Longitude": -1.8244750834228427,
+      "count": 2793
+    },
+    {
+      "city": "Tamworth",
+      "Latitude": 52.62421803619529,
+      "Longitude": -1.6818857070707072,
+      "count": 1188
+    },
+    {
+      "city": "Worcester",
+      "Latitude": 52.19621986900743,
+      "Longitude": -2.2118230972316004,
+      "count": 1481
+    },
+    {
+      "city": "Wychavon",
+      "Latitude": 52.18235921103546,
+      "Longitude": -2.0783571246864923,
+      "count": 2791
+    },
+    {
+      "city": "Malvern Hills",
+      "Latitude": 52.15218963398693,
+      "Longitude": -2.2997794789067143,
+      "count": 1683
+    },
+    {
+      "city": "Wyre Forest",
+      "Latitude": 52.37863835665077,
+      "Longitude": -2.254685124006359,
+      "count": 1887
+    },
+    {
+      "city": "Bromsgrove",
+      "Latitude": 52.364009952380954,
+      "Longitude": -2.024931956624234,
+      "count": 2121
+    },
+    {
+      "city": "Redditch",
+      "Latitude": 52.298876965746906,
+      "Longitude": -1.9306132112274024,
+      "count": 1051
+    },
+    {
+      "city": "Herefordshire, County of",
+      "Latitude": 52.07186737456359,
+      "Longitude": -2.691433979800499,
+      "count": 4010
+    },
+    {
+      "city": "Shrewsbury and Atcham",
+      "Latitude": 52.701725475524476,
+      "Longitude": -2.7568538636363633,
+      "count": 572
+    },
+    {
+      "city": "Oswestry",
+      "Latitude": 52.85732933333333,
+      "Longitude": -3.0307709380952383,
+      "count": 210
+    },
+    {
+      "city": "Telford and Wrekin",
+      "Latitude": 52.69673946559633,
+      "Longitude": -2.464846149082569,
+      "count": 2616
+    },
+    {
+      "city": "South Shropshire",
+      "Latitude": 52.43909201229508,
+      "Longitude": -2.799200331967213,
+      "count": 244
+    },
+    {
+      "city": "Bridgnorth",
+      "Latitude": 52.57371890571429,
+      "Longitude": -2.395349585714286,
+      "count": 350
+    },
+    {
+      "city": "North Shropshire",
+      "Latitude": 52.88384456060606,
+      "Longitude": -2.653664666666667,
+      "count": 330
+    },
+    {
+      "city": "Stratford-upon-Avon",
+      "Latitude": 52.21319918343875,
+      "Longitude": -1.66520095773433,
+      "count": 3478
+    },
+    {
+      "city": "Warwick",
+      "Latitude": 52.29617229454788,
+      "Longitude": -1.5666188081781918,
+      "count": 3010
+    },
+    {
+      "city": "North Warwickshire",
+      "Latitude": 52.53553960581291,
+      "Longitude": -1.638394458976688,
+      "count": 3303
+    },
+    {
+      "city": "Nuneaton and Bedworth",
+      "Latitude": 52.50148504793316,
+      "Longitude": -1.4793490642040457,
+      "count": 2274
+    },
+    {
+      "city": "Rugby",
+      "Latitude": 52.39181136027944,
+      "Longitude": -1.3123275904856953,
+      "count": 3006
+    },
+    {
+      "city": "Amber Valley",
+      "Latitude": 53.043077574352544,
+      "Longitude": -1.420559784043442,
+      "count": 2394
+    },
+    {
+      "city": "Erewash",
+      "Latitude": 52.931198638064814,
+      "Longitude": -1.3251102501141032,
+      "count": 2191
+    },
+    {
+      "city": "Bolsover",
+      "Latitude": 53.183279617818485,
+      "Longitude": -1.2993762543713572,
+      "count": 2402
+    },
+    {
+      "city": "Derbyshire Dales",
+      "Latitude": 53.12759085353983,
+      "Longitude": -1.6761179407079647,
+      "count": 2260
+    },
+    {
+      "city": "High Peak",
+      "Latitude": 53.365449010319416,
+      "Longitude": -1.9109316353808352,
+      "count": 2035
+    },
+    {
+      "city": "North East Derbyshire",
+      "Latitude": 53.2251499946568,
+      "Longitude": -1.4037415133579942,
+      "count": 2433
+    },
+    {
+      "city": "Chesterfield",
+      "Latitude": 53.24806585278031,
+      "Longitude": -1.409494664083865,
+      "count": 2194
+    },
+    {
+      "city": "South Derbyshire",
+      "Latitude": 52.82656675503191,
+      "Longitude": -1.547596756504664,
+      "count": 2037
+    },
+    {
+      "city": "Derby",
+      "Latitude": 52.913180609721984,
+      "Longitude": -1.4720697350935477,
+      "count": 5719
+    },
+    {
+      "city": "Mansfield",
+      "Latitude": 53.15365424631396,
+      "Longitude": -1.1851870359930616,
+      "count": 2306
+    },
+    {
+      "city": "Ashfield",
+      "Latitude": 53.094785521081086,
+      "Longitude": -1.2527588627027026,
+      "count": 2775
+    },
+    {
+      "city": "Bassetlaw",
+      "Latitude": 53.32109680363263,
+      "Longitude": -1.0333576220013707,
+      "count": 2918
+    },
+    {
+      "city": "Newark and Sherwood",
+      "Latitude": 53.107816916,
+      "Longitude": -0.9060043584615386,
+      "count": 3250
+    },
+    {
+      "city": "Nottingham",
+      "Latitude": 52.962562080525274,
+      "Longitude": -1.1698358299058473,
+      "count": 8072
+    },
+    {
+      "city": "Rushcliffe",
+      "Latitude": 52.910871645564825,
+      "Longitude": -1.079418660348749,
+      "count": 2638
+    },
+    {
+      "city": "Gedling",
+      "Latitude": 53.00809426616328,
+      "Longitude": -1.1181273213780083,
+      "count": 2119
+    },
+    {
+      "city": "Broxtowe",
+      "Latitude": 52.96287707427844,
+      "Longitude": -1.252066654074703,
+      "count": 2356
+    },
+    {
+      "city": "South Kesteven",
+      "Latitude": 52.843739767948286,
+      "Longitude": -0.5533851119428377,
+      "count": 2939
+    },
+    {
+      "city": "South Holland",
+      "Latitude": 52.78733356320837,
+      "Longitude": -0.06323489930252833,
+      "count": 2294
+    },
+    {
+      "city": "North Kesteven",
+      "Latitude": 53.101589214920075,
+      "Longitude": -0.4879069278863232,
+      "count": 2815
+    },
+    {
+      "city": "East Lindsey",
+      "Latitude": 53.240258400995025,
+      "Longitude": 0.07451401343283583,
+      "count": 4020
+    },
+    {
+      "city": "West Lindsey",
+      "Latitude": 53.36146784554024,
+      "Longitude": -0.5273104989122552,
+      "count": 2758
+    },
+    {
+      "city": "Boston",
+      "Latitude": 52.96654562439287,
+      "Longitude": -0.03666412358337831,
+      "count": 1853
+    },
+    {
+      "city": "Lincoln",
+      "Latitude": 53.22521120600858,
+      "Longitude": -0.5495741755364807,
+      "count": 2330
+    },
+    {
+      "city": "Harborough",
+      "Latitude": 52.49692570425423,
+      "Longitude": -1.0908677483341875,
+      "count": 1951
+    },
+    {
+      "city": "Leicester",
+      "Latitude": 52.63549657008155,
+      "Longitude": -1.1279534175586137,
+      "count": 7848
+    },
+    {
+      "city": "Charnwood",
+      "Latitude": 52.73608322371364,
+      "Longitude": -1.1722668780760626,
+      "count": 2682
+    },
+    {
+      "city": "North West Leicestershire",
+      "Latitude": 52.7635754562525,
+      "Longitude": -1.379590863363963,
+      "count": 2503
+    },
+    {
+      "city": "Rutland",
+      "Latitude": 52.654148864123954,
+      "Longitude": -0.6441203122765196,
+      "count": 839
+    },
+    {
+      "city": "Blaby",
+      "Latitude": 52.59011480573385,
+      "Longitude": -1.2032299940094138,
+      "count": 2337
+    },
+    {
+      "city": "Oadby and Wigston",
+      "Latitude": 52.59201912608696,
+      "Longitude": -1.1002813855072464,
+      "count": 690
+    },
+    {
+      "city": "Melton",
+      "Latitude": 52.78572736886005,
+      "Longitude": -0.8892758183503244,
+      "count": 1079
+    },
+    {
+      "city": "Hinckley and Bosworth",
+      "Latitude": 52.599363499750126,
+      "Longitude": -1.3453841824087958,
+      "count": 2001
+    },
+    {
+      "city": "Kettering",
+      "Latitude": 52.40423495843672,
+      "Longitude": -0.7422608666253102,
+      "count": 1612
+    },
+    {
+      "city": "Corby",
+      "Latitude": 52.48791046992054,
+      "Longitude": -0.7017046617480136,
+      "count": 881
+    },
+    {
+      "city": "East Northamptonshire",
+      "Latitude": 52.390006957580525,
+      "Longitude": -0.5570439882168108,
+      "count": 1273
+    },
+    {
+      "city": "Daventry",
+      "Latitude": 52.30636024150597,
+      "Longitude": -1.0691665018365475,
+      "count": 2178
+    },
+    {
+      "city": "South Northamptonshire",
+      "Latitude": 52.13073128792135,
+      "Longitude": -1.0037303899812733,
+      "count": 2136
+    },
+    {
+      "city": "Northampton",
+      "Latitude": 52.24370965523206,
+      "Longitude": -0.8845810276736812,
+      "count": 3469
+    },
+    {
+      "city": "Wellingborough",
+      "Latitude": 52.29802414452555,
+      "Longitude": -0.7034161255474453,
+      "count": 1370
+    },
+    {
+      "city": "South Cambridgeshire",
+      "Latitude": 52.19126377791943,
+      "Longitude": 0.08551966165221826,
+      "count": 3922
+    },
+    {
+      "city": "Huntingdonshire",
+      "Latitude": 52.35877075870235,
+      "Longitude": -0.19717076414870946,
+      "count": 4223
+    },
+    {
+      "city": "Peterborough",
+      "Latitude": 52.58433311311227,
+      "Longitude": -0.2594427596364249,
+      "count": 5941
+    },
+    {
+      "city": "East Cambridgeshire",
+      "Latitude": 52.34483443466069,
+      "Longitude": 0.2882157089175547,
+      "count": 1783
+    },
+    {
+      "city": "Cambridge",
+      "Latitude": 52.20407237283339,
+      "Longitude": 0.13297529607357622,
+      "count": 2827
+    },
+    {
+      "city": "Fenland",
+      "Latitude": 52.59020748501872,
+      "Longitude": 0.07610226310861425,
+      "count": 2136
+    },
+    {
+      "city": "Great Yarmouth",
+      "Latitude": 52.61150524077435,
+      "Longitude": 1.702616215970962,
+      "count": 1653
+    },
+    {
+      "city": "King's Lynn and West Norfolk",
+      "Latitude": 52.72530711693549,
+      "Longitude": 0.4276573076923077,
+      "count": 3224
+    },
+    {
+      "city": "Broadland",
+      "Latitude": 52.67942166706068,
+      "Longitude": 1.320782731284476,
+      "count": 2538
+    },
+    {
+      "city": "South Norfolk",
+      "Latitude": 52.53817982076814,
+      "Longitude": 1.2576590259601708,
+      "count": 2812
+    },
+    {
+      "city": "North Norfolk",
+      "Latitude": 52.841588097575055,
+      "Longitude": 1.2129552338337182,
+      "count": 1732
+    },
+    {
+      "city": "Norwich",
+      "Latitude": 52.63435330744441,
+      "Longitude": 1.2824274121817596,
+      "count": 3103
+    },
+    {
+      "city": "Breckland",
+      "Latitude": 52.572501354381934,
+      "Longitude": 0.8508116092613852,
+      "count": 2613
+    },
+    {
+      "city": "St. Edmundsbury",
+      "Latitude": 52.22711471441048,
+      "Longitude": 0.6750547912663756,
+      "count": 2290
+    },
+    {
+      "city": "Suffolk Coastal",
+      "Latitude": 52.110135671370216,
+      "Longitude": 1.3584452031191978,
+      "count": 2693
+    },
+    {
+      "city": "Forest Heath",
+      "Latitude": 52.335208843262,
+      "Longitude": 0.5221500821283979,
+      "count": 1729
+    },
+    {
+      "city": "Babergh",
+      "Latitude": 52.037486015681004,
+      "Longitude": 0.9429179327956989,
+      "count": 2232
+    },
+    {
+      "city": "Mid Suffolk",
+      "Latitude": 52.220536634157945,
+      "Longitude": 1.057977099429115,
+      "count": 2102
+    },
+    {
+      "city": "Ipswich",
+      "Latitude": 52.05460499131693,
+      "Longitude": 1.1589900665701882,
+      "count": 2764
+    },
+    {
+      "city": "Waveney",
+      "Latitude": 52.4489564726477,
+      "Longitude": 1.660989355798687,
+      "count": 2285
+    },
+    {
+      "city": "Bedford",
+      "Latitude": 52.141894154417834,
+      "Longitude": -0.46016604128819155,
+      "count": 3634
+    },
+    {
+      "city": "Mid Bedfordshire",
+      "Latitude": 52.03380415598549,
+      "Longitude": -0.4469879746070133,
+      "count": 827
+    },
+    {
+      "city": "Luton",
+      "Latitude": 51.8911845023708,
+      "Longitude": -0.4337211142721669,
+      "count": 4218
+    },
+    {
+      "city": "South Bedfordshire",
+      "Latitude": 51.899636116197186,
+      "Longitude": -0.5196944154929577,
+      "count": 852
+    },
+    {
+      "city": "East Hertfordshire",
+      "Latitude": 51.837899961838325,
+      "Longitude": 0.0011737316372589244,
+      "count": 2437
+    },
+    {
+      "city": "North Hertfordshire",
+      "Latitude": 51.94799317903767,
+      "Longitude": -0.21928229615814995,
+      "count": 2681
+    },
+    {
+      "city": "Welwyn Hatfield",
+      "Latitude": 51.774811417106264,
+      "Longitude": -0.20947216993217782,
+      "count": 2654
+    },
+    {
+      "city": "Broxbourne",
+      "Latitude": 51.71915189093959,
+      "Longitude": -0.03508550782997763,
+      "count": 1788
+    },
+    {
+      "city": "Watford",
+      "Latitude": 51.66662370654978,
+      "Longitude": -0.3988995250128933,
+      "count": 1939
+    },
+    {
+      "city": "Hertsmere",
+      "Latitude": 51.676333557358056,
+      "Longitude": -0.2732485359212051,
+      "count": 3452
+    },
+    {
+      "city": "Three Rivers",
+      "Latitude": 51.66268647301136,
+      "Longitude": -0.4517386122159091,
+      "count": 2112
+    },
+    {
+      "city": "Dacorum",
+      "Latitude": 51.76722594382022,
+      "Longitude": -0.48648716998912644,
+      "count": 2759
+    },
+    {
+      "city": "Stevenage",
+      "Latitude": 51.90454964705882,
+      "Longitude": -0.19620935628342243,
+      "count": 1496
+    },
+    {
+      "city": "St. Albans",
+      "Latitude": 51.75565229212674,
+      "Longitude": -0.3559657981277004,
+      "count": 4166
+    },
+    {
+      "city": "Uttlesford",
+      "Latitude": 51.926927971383144,
+      "Longitude": 0.2534710556438792,
+      "count": 1887
+    },
+    {
+      "city": "Braintree",
+      "Latitude": 51.872934231899265,
+      "Longitude": 0.6055195627841903,
+      "count": 2859
+    },
+    {
+      "city": "Colchester",
+      "Latitude": 51.8845078161512,
+      "Longitude": 0.8786019355670104,
+      "count": 3492
+    },
+    {
+      "city": "Epping Forest",
+      "Latitude": 51.68197507390406,
+      "Longitude": 0.09618378104200137,
+      "count": 4357
+    },
+    {
+      "city": "Basildon",
+      "Latitude": 51.58334587043954,
+      "Longitude": 0.47481791783970123,
+      "count": 3481
+    },
+    {
+      "city": "Chelmsford",
+      "Latitude": 51.71886782847534,
+      "Longitude": 0.4941897819506727,
+      "count": 3570
+    },
+    {
+      "city": "Thurrock",
+      "Latitude": 51.49746718558244,
+      "Longitude": 0.32353983362434524,
+      "count": 4009
+    },
+    {
+      "city": "Maldon",
+      "Latitude": 51.70634566165413,
+      "Longitude": 0.7207984076858814,
+      "count": 1197
+    },
+    {
+      "city": "Brentwood",
+      "Latitude": 51.61881171503405,
+      "Longitude": 0.3117497061288633,
+      "count": 1909
+    },
+    {
+      "city": "Tendring",
+      "Latitude": 51.85092609415064,
+      "Longitude": 1.1260874246794872,
+      "count": 2497
+    },
+    {
+      "city": "Harlow",
+      "Latitude": 51.76735724739336,
+      "Longitude": 0.10845951279620851,
+      "count": 1055
+    },
+    {
+      "city": "Southend-on-Sea",
+      "Latitude": 51.54800185504642,
+      "Longitude": 0.6977050041928722,
+      "count": 3339
+    },
+    {
+      "city": "Castle Point",
+      "Latitude": 51.55142682671958,
+      "Longitude": 0.5780485277777777,
+      "count": 1514
+    },
+    {
+      "city": "Rochford",
+      "Latitude": 51.58925319943623,
+      "Longitude": 0.6446861761804088,
+      "count": 1419
+    },
+    {
+      "city": "Aylesbury Vale",
+      "Latitude": 51.86278966259832,
+      "Longitude": -0.84321920151885,
+      "count": 3687
+    },
+    {
+      "city": "Wycombe",
+      "Latitude": 51.63217694138864,
+      "Longitude": -0.7669579095281034,
+      "count": 3327
+    },
+    {
+      "city": "South Bucks",
+      "Latitude": 51.55471496292483,
+      "Longitude": -0.5683097600411947,
+      "count": 2913
+    },
+    {
+      "city": "Milton Keynes",
+      "Latitude": 52.04333302574289,
+      "Longitude": -0.7458052275544255,
+      "count": 6293
+    },
+    {
+      "city": "Chiltern",
+      "Latitude": 51.670018514858846,
+      "Longitude": -0.6149120401188707,
+      "count": 1346
+    },
+    {
+      "city": "Slough",
+      "Latitude": 51.50794941829121,
+      "Longitude": -0.5848846616125151,
+      "count": 4155
+    },
+    {
+      "city": "Cherwell",
+      "Latitude": 51.936281253720054,
+      "Longitude": -1.2607666948297604,
+      "count": 3965
+    },
+    {
+      "city": "South Oxfordshire",
+      "Latitude": 51.64541920399429,
+      "Longitude": -1.0826305934379457,
+      "count": 2804
+    },
+    {
+      "city": "Vale of White Horse",
+      "Latitude": 51.661601698767335,
+      "Longitude": -1.3576549603235746,
+      "count": 2596
+    },
+    {
+      "city": "West Oxfordshire",
+      "Latitude": 51.820928540375824,
+      "Longitude": -1.4863681777552058,
+      "count": 1969
+    },
+    {
+      "city": "Oxford",
+      "Latitude": 51.75128284830587,
+      "Longitude": -1.2336189925396333,
+      "count": 3217
+    },
+    {
+      "city": "West Berkshire",
+      "Latitude": 51.434395279720285,
+      "Longitude": -1.2547832158710852,
+      "count": 3289
+    },
+    {
+      "city": "Wokingham",
+      "Latitude": 51.430398111528824,
+      "Longitude": -0.8873933763575603,
+      "count": 2394
+    },
+    {
+      "city": "Windsor and Maidenhead",
+      "Latitude": 51.48986785494375,
+      "Longitude": -0.6850648866193013,
+      "count": 3378
+    },
+    {
+      "city": "Bracknell Forest",
+      "Latitude": 51.402380527983105,
+      "Longitude": -0.7483764878563886,
+      "count": 1894
+    },
+    {
+      "city": "Reading",
+      "Latitude": 51.44911149341471,
+      "Longitude": -0.9783138017989077,
+      "count": 3113
+    },
+    {
+      "city": "East Hampshire",
+      "Latitude": 51.06444359634624,
+      "Longitude": -0.942177455415398,
+      "count": 2299
+    },
+    {
+      "city": "Havant",
+      "Latitude": 50.858225716691436,
+      "Longitude": -0.9998284878652798,
+      "count": 2019
+    },
+    {
+      "city": "Gosport",
+      "Latitude": 50.806783997584546,
+      "Longitude": -1.1583531779388083,
+      "count": 1242
+    },
+    {
+      "city": "Winchester",
+      "Latitude": 51.0190503648272,
+      "Longitude": -1.2583881806020067,
+      "count": 3588
+    },
+    {
+      "city": "Isle of Wight",
+      "Latitude": 50.68871714656589,
+      "Longitude": -1.2537661130463358,
+      "count": 3043
+    },
+    {
+      "city": "New Forest",
+      "Latitude": 50.85483800588379,
+      "Longitude": -1.5908036996812942,
+      "count": 4079
+    },
+    {
+      "city": "Fareham",
+      "Latitude": 50.85492845540309,
+      "Longitude": -1.2052306946826756,
+      "count": 2332
+    },
+    {
+      "city": "Test Valley",
+      "Latitude": 51.088614808955235,
+      "Longitude": -1.4854678940298507,
+      "count": 2680
+    },
+    {
+      "city": "Rushmoor",
+      "Latitude": 51.27867384879289,
+      "Longitude": -0.7631816613722999,
+      "count": 1574
+    },
+    {
+      "city": "Basingstoke and Deane",
+      "Latitude": 51.271491148942985,
+      "Longitude": -1.1424990560538117,
+      "count": 3122
+    },
+    {
+      "city": "Portsmouth",
+      "Latitude": 50.81680740621267,
+      "Longitude": -1.0741412954998009,
+      "count": 5022
+    },
+    {
+      "city": "Eastleigh",
+      "Latitude": 50.94144136671368,
+      "Longitude": -1.3417058490832159,
+      "count": 2836
+    },
+    {
+      "city": "Hart",
+      "Latitude": 51.29666892747001,
+      "Longitude": -0.8717501941747573,
+      "count": 1751
+    },
+    {
+      "city": "Southampton",
+      "Latitude": 50.917892869522504,
+      "Longitude": -1.4010018386716445,
+      "count": 5089
+    },
+    {
+      "city": "Elmbridge",
+      "Latitude": 51.36316753070551,
+      "Longitude": -0.39293689488717515,
+      "count": 3501
+    },
+    {
+      "city": "Runnymede",
+      "Latitude": 51.39487726411132,
+      "Longitude": -0.5304501254922552,
+      "count": 3809
+    },
+    {
+      "city": "Guildford",
+      "Latitude": 51.2574044278407,
+      "Longitude": -0.5704825111435878,
+      "count": 5474
+    },
+    {
+      "city": "Spelthorne",
+      "Latitude": 51.42772147029035,
+      "Longitude": -0.46980700337609727,
+      "count": 2962
+    },
+    {
+      "city": "Mole Valley",
+      "Latitude": 51.253975766229395,
+      "Longitude": -0.31919172552976793,
+      "count": 2973
+    },
+    {
+      "city": "Epsom and Ewell",
+      "Latitude": 51.34419129163787,
+      "Longitude": -0.2595436807187284,
+      "count": 1447
+    },
+    {
+      "city": "Reigate and Banstead",
+      "Latitude": 51.25569102592267,
+      "Longitude": -0.18852150856766256,
+      "count": 4552
+    },
+    {
+      "city": "Woking",
+      "Latitude": 51.320319955663045,
+      "Longitude": -0.5562010370818218,
+      "count": 2481
+    },
+    {
+      "city": "Waverley",
+      "Latitude": 51.1680015238394,
+      "Longitude": -0.6853823742158093,
+      "count": 3188
+    },
+    {
+      "city": "Surrey Heath",
+      "Latitude": 51.33909024688026,
+      "Longitude": -0.7011512937605396,
+      "count": 2965
+    },
+    {
+      "city": "Tandridge",
+      "Latitude": 51.24239671251348,
+      "Longitude": -0.06206013538295577,
+      "count": 3708
+    },
+    {
+      "city": "Medway",
+      "Latitude": 51.379753246815575,
+      "Longitude": 0.534334619900314,
+      "count": 5417
+    },
+    {
+      "city": "Dartford",
+      "Latitude": 51.43574072542831,
+      "Longitude": 0.24423594251577996,
+      "count": 4436
+    },
+    {
+      "city": "Sevenoaks",
+      "Latitude": 51.31550178928272,
+      "Longitude": 0.1730922302539771,
+      "count": 3583
+    },
+    {
+      "city": "Dover",
+      "Latitude": 51.181395768875845,
+      "Longitude": 1.306804879194631,
+      "count": 2384
+    },
+    {
+      "city": "Shepway",
+      "Latitude": 51.072451824664434,
+      "Longitude": 1.0844272390939595,
+      "count": 2384
+    },
+    {
+      "city": "Canterbury",
+      "Latitude": 51.30480035452323,
+      "Longitude": 1.0924684718826405,
+      "count": 3272
+    },
+    {
+      "city": "Tunbridge Wells",
+      "Latitude": 51.131952615115466,
+      "Longitude": 0.3482243631910427,
+      "count": 2858
+    },
+    {
+      "city": "Tonbridge and Malling",
+      "Latitude": 51.278093147314166,
+      "Longitude": 0.3855299093868692,
+      "count": 3686
+    },
+    {
+      "city": "Maidstone",
+      "Latitude": 51.261199262738145,
+      "Longitude": 0.552162764731945,
+      "count": 4514
+    },
+    {
+      "city": "Gravesham",
+      "Latitude": 51.42121455339018,
+      "Longitude": 0.37603695046691027,
+      "count": 2463
+    },
+    {
+      "city": "Swale",
+      "Latitude": 51.34722521122995,
+      "Longitude": 0.7846055326797385,
+      "count": 3366
+    },
+    {
+      "city": "Ashford",
+      "Latitude": 51.13801162774391,
+      "Longitude": 0.8358213253048781,
+      "count": 3280
+    },
+    {
+      "city": "Thanet",
+      "Latitude": 51.36184405521661,
+      "Longitude": 1.3787997419158025,
+      "count": 3278
+    },
+    {
+      "city": "Wealden",
+      "Latitude": 50.9348311329114,
+      "Longitude": 0.1997744571026723,
+      "count": 4266
+    },
+    {
+      "city": "Eastbourne",
+      "Latitude": 50.78167427012345,
+      "Longitude": 0.2854297283950617,
+      "count": 2025
+    },
+    {
+      "city": "Rother",
+      "Latitude": 50.91794613559985,
+      "Longitude": 0.5225299824150058,
+      "count": 2559
+    },
+    {
+      "city": "Brighton and Hove",
+      "Latitude": 50.83410037519705,
+      "Longitude": -0.14441041631634263,
+      "count": 7612
+    },
+    {
+      "city": "Mid Sussex",
+      "Latitude": 51.02106156103356,
+      "Longitude": -0.1282964852984853,
+      "count": 3367
+    },
+    {
+      "city": "Chichester",
+      "Latitude": 50.884005093235835,
+      "Longitude": -0.7526711121267521,
+      "count": 3282
+    },
+    {
+      "city": "Worthing",
+      "Latitude": 50.82391569912366,
+      "Longitude": -0.38690111635832525,
+      "count": 2054
+    },
+    {
+      "city": "Crawley",
+      "Latitude": 51.12365995077412,
+      "Longitude": -0.1773645073441842,
+      "count": 2519
+    },
+    {
+      "city": "Arun",
+      "Latitude": 50.819334148120575,
+      "Longitude": -0.5902715165612207,
+      "count": 2687
+    },
+    {
+      "city": "Horsham",
+      "Latitude": 51.008916595573446,
+      "Longitude": -0.35707105399061034,
+      "count": 2982
+    },
+    {
+      "city": "Lewes",
+      "Latitude": 50.85550220075917,
+      "Longitude": 0.015306039223956137,
+      "count": 2371
+    },
+    {
+      "city": "Adur",
+      "Latitude": 50.83689280559646,
+      "Longitude": -0.28525249926362295,
+      "count": 1358
+    },
+    {
+      "city": "Hastings",
+      "Latitude": 50.86601808717689,
+      "Longitude": 0.5653331971616827,
+      "count": 1973
+    },
+    {
+      "city": "Kerrier",
+      "Latitude": 50.18033117660044,
+      "Longitude": -5.252865121412805,
+      "count": 453
+    },
+    {
+      "city": "Carrick",
+      "Latitude": 50.24632476285716,
+      "Longitude": -5.07996675,
+      "count": 700
+    },
+    {
+      "city": "Penwith",
+      "Latitude": 50.146959504739336,
+      "Longitude": -5.508166059241706,
+      "count": 422
+    },
+    {
+      "city": "Restormel",
+      "Latitude": 50.37608722134387,
+      "Longitude": -4.884246873517787,
+      "count": 759
+    },
+    {
+      "city": "North Cornwall",
+      "Latitude": 50.584874898211844,
+      "Longitude": -4.621893162310866,
+      "count": 727
+    },
+    {
+      "city": "West Devon",
+      "Latitude": 50.638109177159585,
+      "Longitude": -4.066204640556369,
+      "count": 1367
+    },
+    {
+      "city": "Caradon",
+      "Latitude": 50.43945873056995,
+      "Longitude": -4.372601687392056,
+      "count": 579
+    },
+    {
+      "city": "Torridge",
+      "Latitude": 50.92996988022508,
+      "Longitude": -4.226557955787781,
+      "count": 1244
+    },
+    {
+      "city": "North Devon",
+      "Latitude": 51.080665066352935,
+      "Longitude": -4.015143196235295,
+      "count": 2125
+    },
+    {
+      "city": "Exeter",
+      "Latitude": 50.7191748042885,
+      "Longitude": -3.5108164526315795,
+      "count": 2565
+    },
+    {
+      "city": "East Devon",
+      "Latitude": 50.735449503790484,
+      "Longitude": -3.2549769252239837,
+      "count": 2902
+    },
+    {
+      "city": "Teignbridge",
+      "Latitude": 50.57162006493507,
+      "Longitude": -3.5967850288248338,
+      "count": 3158
+    },
+    {
+      "city": "Mid Devon",
+      "Latitude": 50.867972714836235,
+      "Longitude": -3.5107119402697493,
+      "count": 1557
+    },
+    {
+      "city": "Plymouth",
+      "Latitude": 50.38804439140652,
+      "Longitude": -4.1313532564618995,
+      "count": 5958
+    },
+    {
+      "city": "South Hams",
+      "Latitude": 50.38450610573477,
+      "Longitude": -3.8285790905017922,
+      "count": 2232
+    },
+    {
+      "city": "Torbay",
+      "Latitude": 50.45251073328408,
+      "Longitude": -3.5525054037680084,
+      "count": 2707
+    },
+    {
+      "city": "Bristol, City of",
+      "Latitude": 51.45984811058934,
+      "Longitude": -2.5875523829537452,
+      "count": 8518
+    },
+    {
+      "city": "Bath and North East Somerset",
+      "Latitude": 51.36714488673469,
+      "Longitude": -2.4254059261904763,
+      "count": 2940
+    },
+    {
+      "city": "Sedgemoor",
+      "Latitude": 51.16903452162367,
+      "Longitude": -2.9647007613808802,
+      "count": 2636
+    },
+    {
+      "city": "Mendip",
+      "Latitude": 51.20798624128687,
+      "Longitude": -2.5189639191242184,
+      "count": 2238
+    },
+    {
+      "city": "South Gloucestershire",
+      "Latitude": 51.51578522475767,
+      "Longitude": -2.5034978424878838,
+      "count": 4952
+    },
+    {
+      "city": "Taunton Deane",
+      "Latitude": 51.00963351051709,
+      "Longitude": -3.118150996494303,
+      "count": 2282
+    },
+    {
+      "city": "South Somerset",
+      "Latitude": 50.965582322647066,
+      "Longitude": -2.718179820882353,
+      "count": 3400
+    },
+    {
+      "city": "North Somerset",
+      "Latitude": 51.38584039425378,
+      "Longitude": -2.8381708486299546,
+      "count": 3759
+    },
+    {
+      "city": "West Somerset",
+      "Latitude": 51.15909657943925,
+      "Longitude": -3.39980009212283,
+      "count": 749
+    },
+    {
+      "city": "Stroud",
+      "Latitude": 51.73653336488251,
+      "Longitude": -2.2804573093994778,
+      "count": 1532
+    },
+    {
+      "city": "Gloucester",
+      "Latitude": 51.855265581877724,
+      "Longitude": -2.236912737445415,
+      "count": 1832
+    },
+    {
+      "city": "Tewkesbury",
+      "Latitude": 51.92505735794814,
+      "Longitude": -2.138076351183765,
+      "count": 1774
+    },
+    {
+      "city": "Forest of Dean",
+      "Latitude": 51.82339860213415,
+      "Longitude": -2.4914807339939027,
+      "count": 1312
+    },
+    {
+      "city": "Cotswold",
+      "Latitude": 51.80900034347826,
+      "Longitude": -1.9170297347826086,
+      "count": 2070
+    },
+    {
+      "city": "Cheltenham",
+      "Latitude": 51.900136815088764,
+      "Longitude": -2.0878874016272193,
+      "count": 1352
+    },
+    {
+      "city": "Salisbury",
+      "Latitude": 51.10181969276393,
+      "Longitude": -1.8678593274021353,
+      "count": 843
+    },
+    {
+      "city": "Kennet",
+      "Latitude": 51.373284587962964,
+      "Longitude": -1.809688273148148,
+      "count": 432
+    },
+    {
+      "city": "West Wiltshire",
+      "Latitude": 51.283832748571434,
+      "Longitude": -2.183571708571429,
+      "count": 525
+    },
+    {
+      "city": "North Wiltshire",
+      "Latitude": 51.50725632034106,
+      "Longitude": -2.0556847332521313,
+      "count": 821
+    },
+    {
+      "city": "Swindon",
+      "Latitude": 51.566353195543435,
+      "Longitude": -1.7699097592087312,
+      "count": 4398
+    },
+    {
+      "city": "Bournemouth",
+      "Latitude": 50.73731230908657,
+      "Longitude": -1.8652125304078226,
+      "count": 4193
+    },
+    {
+      "city": "Poole",
+      "Latitude": 50.73575722794118,
+      "Longitude": -1.9584435453431372,
+      "count": 3264
+    },
+    {
+      "city": "North Dorset",
+      "Latitude": 50.92800284627451,
+      "Longitude": -2.2205854494117645,
+      "count": 1275
+    },
+    {
+      "city": "East Dorset",
+      "Latitude": 50.82030734724154,
+      "Longitude": -1.9316944571163654,
+      "count": 2157
+    },
+    {
+      "city": "Christchurch",
+      "Latitude": 50.74810265809218,
+      "Longitude": -1.7777965133976419,
+      "count": 933
+    },
+    {
+      "city": "Purbeck",
+      "Latitude": 50.704636754224275,
+      "Longitude": -2.1087277342549924,
+      "count": 1302
+    },
+    {
+      "city": "West Dorset",
+      "Latitude": 50.756412793644856,
+      "Longitude": -2.5595696063551405,
+      "count": 2675
+    },
+    {
+      "city": "Weymouth and Portland",
+      "Latitude": 50.61063282837128,
+      "Longitude": -2.4572743625218916,
+      "count": 1142
+    },
+    {
+      "city": "Isle of Anglesey",
+      "Latitude": 53.27764175171232,
+      "Longitude": -4.357425465753424,
+      "count": 584
+    },
+    {
+      "city": "Conwy",
+      "Latitude": 53.248958820367754,
+      "Longitude": -3.737451468882602,
+      "count": 1414
+    },
+    {
+      "city": "Denbighshire",
+      "Latitude": 53.21075068518519,
+      "Longitude": -3.395884169753086,
+      "count": 1296
+    },
+    {
+      "city": "Flintshire",
+      "Latitude": 53.206891662980205,
+      "Longitude": -3.1029931664726425,
+      "count": 1718
+    },
+    {
+      "city": "Gwynedd",
+      "Latitude": 52.96818679262353,
+      "Longitude": -4.085984226861517,
+      "count": 1445
+    },
+    {
+      "city": "Wrexham",
+      "Latitude": 53.03426605997305,
+      "Longitude": -2.9969833551212934,
+      "count": 1484
+    },
+    {
+      "city": "Newport",
+      "Latitude": 51.586832367591896,
+      "Longitude": -2.9907813972243065,
+      "count": 2666
+    },
+    {
+      "city": "Caerphilly",
+      "Latitude": 51.64549705220229,
+      "Longitude": -3.2070306536160955,
+      "count": 1839
+    },
+    {
+      "city": "Monmouthshire",
+      "Latitude": 51.72219471075019,
+      "Longitude": -2.8522166388244394,
+      "count": 1293
+    },
+    {
+      "city": "Torfaen",
+      "Latitude": 51.678499407051284,
+      "Longitude": -3.031216283119658,
+      "count": 936
+    },
+    {
+      "city": "Blaenau Gwent",
+      "Latitude": 51.77223563107822,
+      "Longitude": -3.1963051289640587,
+      "count": 946
+    },
+    {
+      "city": "Swansea",
+      "Latitude": 51.642103867768604,
+      "Longitude": -3.96656156729634,
+      "count": 5083
+    },
+    {
+      "city": "Merthyr Tydfil",
+      "Latitude": 51.74118433230453,
+      "Longitude": -3.369199977366255,
+      "count": 974
+    },
+    {
+      "city": "Bridgend",
+      "Latitude": 51.53246784250635,
+      "Longitude": -3.600861318374259,
+      "count": 2362
+    },
+    {
+      "city": "Cardiff",
+      "Latitude": 51.49737273471279,
+      "Longitude": -3.188720651173564,
+      "count": 6476
+    },
+    {
+      "city": "Neath Port Talbot",
+      "Latitude": 51.64565498025844,
+      "Longitude": -3.795414235821967,
+      "count": 2786
+    },
+    {
+      "city": "The Vale of Glamorgan",
+      "Latitude": 51.43000501945321,
+      "Longitude": -3.3092769815983174,
+      "count": 1902
+    },
+    {
+      "city": "Rhondda, Cynon, Taff",
+      "Latitude": 51.62173927234042,
+      "Longitude": -3.398524003754694,
+      "count": 3998
+    },
+    {
+      "city": "Carmarthenshire",
+      "Latitude": 51.81552610171853,
+      "Longitude": -4.165293894565723,
+      "count": 4306
+    },
+    {
+      "city": "Ceredigion",
+      "Latitude": 52.27443960377359,
+      "Longitude": -4.167427653039832,
+      "count": 1908
+    },
+    {
+      "city": "Pembrokeshire",
+      "Latitude": 51.78972088741232,
+      "Longitude": -4.8941765548172755,
+      "count": 2711
+    },
+    {
+      "city": "Powys",
+      "Latitude": 52.30929243679919,
+      "Longitude": -3.351611108562691,
+      "count": 3924
+    },
+    {
+      "city": "Highland",
+      "Latitude": 57.481512818732526,
+      "Longitude": -4.435956866495807,
+      "count": 4292
+    },
+    {
+      "city": "Western Isles",
+      "Latitude": 57.99293299588478,
+      "Longitude": -6.670985168724282,
+      "count": 243
+    },
+    {
+      "city": "Orkney Islands",
+      "Latitude": 58.97502352173913,
+      "Longitude": -3.0454157142857143,
+      "count": 161
+    },
+    {
+      "city": "Shetland Islands",
+      "Latitude": 60.19460726446281,
+      "Longitude": -1.2256234462809918,
+      "count": 242
+    },
+    {
+      "city": "Aberdeen City",
+      "Latitude": 57.15425968286008,
+      "Longitude": -2.1307280738966816,
+      "count": 2923
+    },
+    {
+      "city": "Aberdeenshire",
+      "Latitude": 57.29285597949781,
+      "Longitude": -2.3281718728403593,
+      "count": 4343
+    },
+    {
+      "city": "Moray",
+      "Latitude": 57.594003834394904,
+      "Longitude": -3.23482323566879,
+      "count": 1099
+    },
+    {
+      "city": "Perth and Kinross",
+      "Latitude": 56.436060260574024,
+      "Longitude": -3.53583058194864,
+      "count": 2651
+    },
+    {
+      "city": "Dundee City",
+      "Latitude": 56.4726336073903,
+      "Longitude": -2.970055951501155,
+      "count": 1732
+    },
+    {
+      "city": "Angus",
+      "Latitude": 56.61927542216688,
+      "Longitude": -2.7543615361145704,
+      "count": 1608
+    },
+    {
+      "city": "Fife",
+      "Latitude": 56.16432157523148,
+      "Longitude": -3.200586967824074,
+      "count": 4320
+    },
+    {
+      "city": "Edinburgh, City of",
+      "Latitude": 55.94320773448374,
+      "Longitude": -3.2237571756125463,
+      "count": 10492
+    },
+    {
+      "city": "Scottish Borders",
+      "Latitude": 55.6248967029791,
+      "Longitude": -2.7286284819919966,
+      "count": 2254
+    },
+    {
+      "city": "West Lothian",
+      "Latitude": 55.90232778827978,
+      "Longitude": -3.570349404536862,
+      "count": 3176
+    },
+    {
+      "city": "Midlothian",
+      "Latitude": 55.870629307924986,
+      "Longitude": -3.115601397459165,
+      "count": 1653
+    },
+    {
+      "city": "East Lothian",
+      "Latitude": 55.9588727834442,
+      "Longitude": -2.888825192904656,
+      "count": 1355
+    },
+    {
+      "city": "Stirling",
+      "Latitude": 56.157660918041515,
+      "Longitude": -4.098429358701437,
+      "count": 1887
+    },
+    {
+      "city": "Falkirk",
+      "Latitude": 56.00648067012742,
+      "Longitude": -3.7855301057102406,
+      "count": 2119
+    },
+    {
+      "city": "Clackmannanshire",
+      "Latitude": 56.13245955536028,
+      "Longitude": -3.772506483304042,
+      "count": 570
+    },
+    {
+      "city": "Glasgow City",
+      "Latitude": 55.85819692420672,
+      "Longitude": -4.2612028062362555,
+      "count": 12732
+    },
+    {
+      "city": "East Dunbartonshire",
+      "Latitude": 55.92800087131631,
+      "Longitude": -4.239532224950884,
+      "count": 1018
+    },
+    {
+      "city": "East Renfrewshire",
+      "Latitude": 55.78375789724311,
+      "Longitude": -4.347129006265664,
+      "count": 798
+    },
+    {
+      "city": "Renfrewshire",
+      "Latitude": 55.85015313293789,
+      "Longitude": -4.453558610607118,
+      "count": 2867
+    },
+    {
+      "city": "Inverclyde",
+      "Latitude": 55.936542015410964,
+      "Longitude": -4.751115127568493,
+      "count": 1168
+    },
+    {
+      "city": "Argyll and Bute",
+      "Latitude": 56.14041138966683,
+      "Longitude": -5.1153527498792855,
+      "count": 2071
+    },
+    {
+      "city": "West Dunbartonshire",
+      "Latitude": 55.94211707680723,
+      "Longitude": -4.49079413253012,
+      "count": 1328
+    },
+    {
+      "city": "North Lanarkshire",
+      "Latitude": 55.85057561885246,
+      "Longitude": -3.983445215651834,
+      "count": 5127
+    },
+    {
+      "city": "South Lanarkshire",
+      "Latitude": 55.73847981134508,
+      "Longitude": -4.009868256123765,
+      "count": 4654
+    },
+    {
+      "city": "North Ayrshire",
+      "Latitude": 55.67395455371429,
+      "Longitude": -4.730732376571429,
+      "count": 1750
+    },
+    {
+      "city": "East Ayrshire",
+      "Latitude": 55.55608736765597,
+      "Longitude": -4.419980668685645,
+      "count": 1651
+    },
+    {
+      "city": "South Ayrshire",
+      "Latitude": 55.43266218880351,
+      "Longitude": -4.639619287596048,
+      "count": 1822
+    },
+    {
+      "city": "Dumfries and Galloway",
+      "Latitude": 55.05675848027167,
+      "Longitude": -3.7610074773609314,
+      "count": 3092
+    },
+    {
+      "city": "Cheshire East",
+      "Latitude": 53.19468833798847,
+      "Longitude": -2.346207280461243,
+      "count": 7805
+    },
+    {
+      "city": "Cheshire West and Chester",
+      "Latitude": 53.22703496449416,
+      "Longitude": -2.76245944844358,
+      "count": 6168
+    },
+    {
+      "city": "Northumberland",
+      "Latitude": 55.18296883275994,
+      "Longitude": -1.7773725464449541,
+      "count": 5232
+    },
+    {
+      "city": "County Durham",
+      "Latitude": 54.75202962162535,
+      "Longitude": -1.604617388705234,
+      "count": 7260
+    },
+    {
+      "city": "Shropshire",
+      "Latitude": 52.69530320187695,
+      "Longitude": -2.6943857566214806,
+      "count": 4795
+    },
+    {
+      "city": "Central Bedfordshire",
+      "Latitude": 51.969305816054195,
+      "Longitude": -0.48294967624717716,
+      "count": 4871
+    },
+    {
+      "city": "Cornwall",
+      "Latitude": 50.355600103718835,
+      "Longitude": -4.901499585017196,
+      "count": 9304
+    },
+    {
+      "city": "Wiltshire",
+      "Latitude": 51.31302401371069,
+      "Longitude": -1.9882563664150945,
+      "count": 7950
+    }
+  ],
+  "female": [
+    {
+      "city": "Kensington and Chelsea",
+      "Latitude": 51.498407260068255,
+      "Longitude": -0.18817057542662116,
+      "count": 1465
+    },
+    {
+      "city": "Westminster",
+      "Latitude": 51.51341791694511,
+      "Longitude": -0.15933749021479715,
+      "count": 2095
+    },
+    {
+      "city": "Hammersmith and Fulham",
+      "Latitude": 51.49314887962292,
+      "Longitude": -0.21862330021754897,
+      "count": 1379
+    },
+    {
+      "city": "City of London",
+      "Latitude": 51.51356418604651,
+      "Longitude": -0.09145401993355481,
+      "count": 301
+    },
+    {
+      "city": "Southwark",
+      "Latitude": 51.47731760442145,
+      "Longitude": -0.0779042412982126,
+      "count": 2126
+    },
+    {
+      "city": "Hackney",
+      "Latitude": 51.55112588188977,
+      "Longitude": -0.06768454391278013,
+      "count": 1651
+    },
+    {
+      "city": "Islington",
+      "Latitude": 51.54737877027028,
+      "Longitude": -0.10957273755334283,
+      "count": 1406
+    },
+    {
+      "city": "Camden",
+      "Latitude": 51.54015638760807,
+      "Longitude": -0.15212136383285302,
+      "count": 1388
+    },
+    {
+      "city": "Lambeth",
+      "Latitude": 51.45582875460352,
+      "Longitude": -0.11932951672303645,
+      "count": 2661
+    },
+    {
+      "city": "Brent",
+      "Latitude": 51.55704750393701,
+      "Longitude": -0.26387530183727037,
+      "count": 2286
+    },
+    {
+      "city": "Haringey",
+      "Latitude": 51.5910698583499,
+      "Longitude": -0.09920127833001988,
+      "count": 2012
+    },
+    {
+      "city": "Barnet",
+      "Latitude": 51.60571330612771,
+      "Longitude": -0.21365962049433573,
+      "count": 3884
+    },
+    {
+      "city": "Richmond upon Thames",
+      "Latitude": 51.448169309426234,
+      "Longitude": -0.31470841461748633,
+      "count": 1464
+    },
+    {
+      "city": "Ealing",
+      "Latitude": 51.52286330905307,
+      "Longitude": -0.3309979080818592,
+      "count": 2883
+    },
+    {
+      "city": "Tower Hamlets",
+      "Latitude": 51.51827513470874,
+      "Longitude": -0.03842133555825243,
+      "count": 1648
+    },
+    {
+      "city": "Waltham Forest",
+      "Latitude": 51.58932648375067,
+      "Longitude": -0.010025460841768781,
+      "count": 1877
+    },
+    {
+      "city": "Newham",
+      "Latitude": 51.531615368500006,
+      "Longitude": 0.036524812999999996,
+      "count": 2000
+    },
+    {
+      "city": "London Airport (Heathrow)",
+      "Latitude": 51.47125003333333,
+      "Longitude": -0.45034531111111115,
+      "count": 90
+    },
+    {
+      "city": "Hillingdon",
+      "Latitude": 51.532076057777786,
+      "Longitude": -0.4369956625925926,
+      "count": 2700
+    },
+    {
+      "city": "Hounslow",
+      "Latitude": 51.47261788172859,
+      "Longitude": -0.3582898286580743,
+      "count": 2638
+    },
+    {
+      "city": "Redbridge",
+      "Latitude": 51.579067581262734,
+      "Longitude": 0.0704849250509165,
+      "count": 2455
+    },
+    {
+      "city": "Barking and Dagenham",
+      "Latitude": 51.547572749554895,
+      "Longitude": 0.12565137388724035,
+      "count": 1685
+    },
+    {
+      "city": "Havering",
+      "Latitude": 51.57108145436969,
+      "Longitude": 0.2084737683681361,
+      "count": 2586
+    },
+    {
+      "city": "Croydon",
+      "Latitude": 51.37221911817136,
+      "Longitude": -0.095693533640023,
+      "count": 3478
+    },
+    {
+      "city": "Wandsworth",
+      "Latitude": 51.450953054616384,
+      "Longitude": -0.18162057433896833,
+      "count": 2307
+    },
+    {
+      "city": "Lewisham",
+      "Latitude": 51.44986010228593,
+      "Longitude": -0.02032158155753584,
+      "count": 2581
+    },
+    {
+      "city": "Greenwich",
+      "Latitude": 51.474030023618326,
+      "Longitude": 0.05025421823334908,
+      "count": 2117
+    },
+    {
+      "city": "Bromley",
+      "Latitude": 51.39170155656873,
+      "Longitude": 0.030256625464370145,
+      "count": 2961
+    },
+    {
+      "city": "Bexley",
+      "Latitude": 51.455940125913436,
+      "Longitude": 0.13495426025857224,
+      "count": 1779
+    },
+    {
+      "city": "Harrow",
+      "Latitude": 51.592986080714724,
+      "Longitude": -0.33899134134319164,
+      "count": 1623
+    },
+    {
+      "city": "Sutton",
+      "Latitude": 51.36646755332941,
+      "Longitude": -0.18325787094873305,
+      "count": 1697
+    },
+    {
+      "city": "Enfield",
+      "Latitude": 51.64063437983069,
+      "Longitude": -0.0791039076186971,
+      "count": 2717
+    },
+    {
+      "city": "Kingston upon Thames",
+      "Latitude": 51.39426211420204,
+      "Longitude": -0.28641134260614937,
+      "count": 1366
+    },
+    {
+      "city": "Merton",
+      "Latitude": 51.40844333355438,
+      "Longitude": -0.18892163063660478,
+      "count": 1508
+    },
+    {
+      "city": "South Lakeland",
+      "Latitude": 54.2839618028546,
+      "Longitude": -2.855703859054416,
+      "count": 1121
+    },
+    {
+      "city": "Barrow-in-Furness",
+      "Latitude": 54.126154442052986,
+      "Longitude": -3.215421092715232,
+      "count": 604
+    },
+    {
+      "city": "Carlisle",
+      "Latitude": 54.90279177512357,
+      "Longitude": -2.912956665568369,
+      "count": 1214
+    },
+    {
+      "city": "Eden",
+      "Latitude": 54.62952249144635,
+      "Longitude": -2.6828061244167967,
+      "count": 643
+    },
+    {
+      "city": "Copeland",
+      "Latitude": 54.49702586037234,
+      "Longitude": -3.518531566489362,
+      "count": 752
+    },
+    {
+      "city": "Allerdale",
+      "Latitude": 54.69261121019108,
+      "Longitude": -3.379658555050046,
+      "count": 1099
+    },
+    {
+      "city": "Blackpool",
+      "Latitude": 53.81639328541448,
+      "Longitude": -3.0343576621196227,
+      "count": 1906
+    },
+    {
+      "city": "Fylde",
+      "Latitude": 53.78092756977863,
+      "Longitude": -2.942988197305101,
+      "count": 1039
+    },
+    {
+      "city": "Lancaster",
+      "Latitude": 54.063012116209784,
+      "Longitude": -2.801778746126341,
+      "count": 1678
+    },
+    {
+      "city": "Blackburn with Darwen",
+      "Latitude": 53.735868865588046,
+      "Longitude": -2.478016817672682,
+      "count": 1607
+    },
+    {
+      "city": "Preston",
+      "Latitude": 53.77728297291197,
+      "Longitude": -2.7017682049661405,
+      "count": 2216
+    },
+    {
+      "city": "Wyre",
+      "Latitude": 53.88370045240032,
+      "Longitude": -2.950583856794142,
+      "count": 1229
+    },
+    {
+      "city": "West Lancashire",
+      "Latitude": 53.58248916763848,
+      "Longitude": -2.8456894650145776,
+      "count": 1373
+    },
+    {
+      "city": "Chorley",
+      "Latitude": 53.66419277104642,
+      "Longitude": -2.6457917773406767,
+      "count": 1271
+    },
+    {
+      "city": "South Ribble",
+      "Latitude": 53.725788603203945,
+      "Longitude": -2.6766335311152187,
+      "count": 1623
+    },
+    {
+      "city": "Hyndburn",
+      "Latitude": 53.75695985061315,
+      "Longitude": -2.388935383500557,
+      "count": 897
+    },
+    {
+      "city": "Ribble Valley",
+      "Latitude": 53.84485082795699,
+      "Longitude": -2.4225933579109062,
+      "count": 651
+    },
+    {
+      "city": "Pendle",
+      "Latitude": 53.85180410290558,
+      "Longitude": -2.1982004818401935,
+      "count": 826
+    },
+    {
+      "city": "Rossendale",
+      "Latitude": 53.698342480916025,
+      "Longitude": -2.277891482188295,
+      "count": 786
+    },
+    {
+      "city": "Burnley",
+      "Latitude": 53.79124282371459,
+      "Longitude": -2.25907699475341,
+      "count": 954
+    },
+    {
+      "city": "Wirral",
+      "Latitude": 53.377929352246774,
+      "Longitude": -3.0544858240670223,
+      "count": 2626
+    },
+    {
+      "city": "Sefton",
+      "Latitude": 53.543033049604915,
+      "Longitude": -2.9902664280070237,
+      "count": 2278
+    },
+    {
+      "city": "Knowsley",
+      "Latitude": 53.42783760616154,
+      "Longitude": -2.844330542880933,
+      "count": 1201
+    },
+    {
+      "city": "Liverpool",
+      "Latitude": 53.4105786604844,
+      "Longitude": -2.930436087933668,
+      "count": 4583
+    },
+    {
+      "city": "St. Helens",
+      "Latitude": 53.450234679972475,
+      "Longitude": -2.718132154163799,
+      "count": 1453
+    },
+    {
+      "city": "Manchester",
+      "Latitude": 53.459466766674204,
+      "Longitude": -2.2286450126610897,
+      "count": 4423
+    },
+    {
+      "city": "Salford",
+      "Latitude": 53.496379572330355,
+      "Longitude": -2.3429447559179386,
+      "count": 1901
+    },
+    {
+      "city": "Rochdale",
+      "Latitude": 53.599688305719916,
+      "Longitude": -2.169255921104537,
+      "count": 1521
+    },
+    {
+      "city": "Trafford",
+      "Latitude": 53.43174740401506,
+      "Longitude": -2.331335415307403,
+      "count": 1594
+    },
+    {
+      "city": "Stockport",
+      "Latitude": 53.398917590233545,
+      "Longitude": -2.158304571656051,
+      "count": 1884
+    },
+    {
+      "city": "Wigan",
+      "Latitude": 53.52180431965442,
+      "Longitude": -2.5886408979481637,
+      "count": 1852
+    },
+    {
+      "city": "Tameside",
+      "Latitude": 53.47499935970149,
+      "Longitude": -2.0889847746268657,
+      "count": 1340
+    },
+    {
+      "city": "Bolton",
+      "Latitude": 53.57323493539582,
+      "Longitude": -2.448385059599636,
+      "count": 2198
+    },
+    {
+      "city": "Bury",
+      "Latitude": 53.571379414042,
+      "Longitude": -2.2953937729658795,
+      "count": 1524
+    },
+    {
+      "city": "Oldham",
+      "Latitude": 53.54312050252208,
+      "Longitude": -2.114418812736444,
+      "count": 1586
+    },
+    {
+      "city": "Warrington",
+      "Latitude": 53.39845777629326,
+      "Longitude": -2.5725545539568344,
+      "count": 2919
+    },
+    {
+      "city": "Macclesfield",
+      "Latitude": 53.300359658585855,
+      "Longitude": -2.2501733171717175,
+      "count": 495
+    },
+    {
+      "city": "Crewe and Nantwich",
+      "Latitude": 53.08534281621621,
+      "Longitude": -2.4697425945945946,
+      "count": 370
+    },
+    {
+      "city": "Halton",
+      "Latitude": 53.34865114603961,
+      "Longitude": -2.7179953919141915,
+      "count": 1212
+    },
+    {
+      "city": "Ellesmere Port and Neston",
+      "Latitude": 53.27659597752809,
+      "Longitude": -2.9390394438202243,
+      "count": 178
+    },
+    {
+      "city": "Vale Royal",
+      "Latitude": 53.23688155121952,
+      "Longitude": -2.551646224390244,
+      "count": 411
+    },
+    {
+      "city": "Chester",
+      "Latitude": 53.19696861032864,
+      "Longitude": -2.8674758638497657,
+      "count": 427
+    },
+    {
+      "city": "Congleton",
+      "Latitude": 53.1577654765625,
+      "Longitude": -2.320853703125,
+      "count": 256
+    },
+    {
+      "city": "Newcastle upon Tyne",
+      "Latitude": 54.98944035989993,
+      "Longitude": -1.634082756969264,
+      "count": 2798
+    },
+    {
+      "city": "Sunderland",
+      "Latitude": 54.891794487935655,
+      "Longitude": -1.4393372872462658,
+      "count": 2611
+    },
+    {
+      "city": "North Tyneside",
+      "Latitude": 55.02240019535114,
+      "Longitude": -1.51203571909001,
+      "count": 2022
+    },
+    {
+      "city": "Wansbeck",
+      "Latitude": 55.16377563333333,
+      "Longitude": -1.5652038533333335,
+      "count": 150
+    },
+    {
+      "city": "Blyth Valley",
+      "Latitude": 55.09690038888889,
+      "Longitude": -1.554548495726496,
+      "count": 234
+    },
+    {
+      "city": "South Tyneside",
+      "Latitude": 54.969830135159825,
+      "Longitude": -1.4520444593607307,
+      "count": 1095
+    },
+    {
+      "city": "Tynedale",
+      "Latitude": 54.99850996391753,
+      "Longitude": -2.0720751340206185,
+      "count": 194
+    },
+    {
+      "city": "Gateshead",
+      "Latitude": 54.941449194004285,
+      "Longitude": -1.6289991023554604,
+      "count": 2335
+    },
+    {
+      "city": "Alnwick",
+      "Latitude": 55.382733895348835,
+      "Longitude": -1.729913360465116,
+      "count": 86
+    },
+    {
+      "city": "Berwick-upon-Tweed",
+      "Latitude": 55.706943890625006,
+      "Longitude": -1.99956115625,
+      "count": 64
+    },
+    {
+      "city": "Castle Morpeth",
+      "Latitude": 55.144967195530725,
+      "Longitude": -1.719480284916201,
+      "count": 179
+    },
+    {
+      "city": "Wear Valley",
+      "Latitude": 54.68001105586593,
+      "Longitude": -1.7222051620111731,
+      "count": 179
+    },
+    {
+      "city": "Sedgefield",
+      "Latitude": 54.661951465909084,
+      "Longitude": -1.5511506988636363,
+      "count": 176
+    },
+    {
+      "city": "Durham",
+      "Latitude": 54.77287568014705,
+      "Longitude": -1.5599722169117647,
+      "count": 272
+    },
+    {
+      "city": "Chester-le-Street",
+      "Latitude": 54.85203555555556,
+      "Longitude": -1.586176797979798,
+      "count": 99
+    },
+    {
+      "city": "Easington",
+      "Latitude": 54.77330800465116,
+      "Longitude": -1.3578481767441857,
+      "count": 215
+    },
+    {
+      "city": "Derwentside",
+      "Latitude": 54.8543502967033,
+      "Longitude": -1.7612002912087916,
+      "count": 182
+    },
+    {
+      "city": "Teesdale",
+      "Latitude": 54.56945101515151,
+      "Longitude": -1.8822412121212122,
+      "count": 66
+    },
+    {
+      "city": "Darlington",
+      "Latitude": 54.53743235114504,
+      "Longitude": -1.5534601727099235,
+      "count": 1048
+    },
+    {
+      "city": "Selby",
+      "Latitude": 53.800037099601596,
+      "Longitude": -1.1475756029216466,
+      "count": 753
+    },
+    {
+      "city": "Harrogate",
+      "Latitude": 54.02044106461233,
+      "Longitude": -1.511004880218688,
+      "count": 2012
+    },
+    {
+      "city": "Hambleton",
+      "Latitude": 54.287615526627214,
+      "Longitude": -1.3564048856015778,
+      "count": 1014
+    },
+    {
+      "city": "Craven",
+      "Latitude": 53.99254277210885,
+      "Longitude": -2.1003857874149663,
+      "count": 588
+    },
+    {
+      "city": "Ryedale",
+      "Latitude": 54.168620340222574,
+      "Longitude": -0.8309275930047695,
+      "count": 629
+    },
+    {
+      "city": "York",
+      "Latitude": 53.963652690157254,
+      "Longitude": -1.0792569900990099,
+      "count": 1717
+    },
+    {
+      "city": "Scarborough",
+      "Latitude": 54.320314782929394,
+      "Longitude": -0.48196800632244474,
+      "count": 949
+    },
+    {
+      "city": "Richmondshire",
+      "Latitude": 54.39327975789473,
+      "Longitude": -1.7360513087719298,
+      "count": 570
+    },
+    {
+      "city": "Bradford",
+      "Latitude": 53.814221285191955,
+      "Longitude": -1.7904905354458664,
+      "count": 4923
+    },
+    {
+      "city": "Kirklees",
+      "Latitude": 53.669925441401105,
+      "Longitude": -1.7314297387411115,
+      "count": 3797
+    },
+    {
+      "city": "Leeds",
+      "Latitude": 53.80540629233054,
+      "Longitude": -1.5491359733999461,
+      "count": 7406
+    },
+    {
+      "city": "Wakefield",
+      "Latitude": 53.67396266147069,
+      "Longitude": -1.4153344540833617,
+      "count": 2951
+    },
+    {
+      "city": "Calderdale",
+      "Latitude": 53.71155481145718,
+      "Longitude": -1.8785120761957732,
+      "count": 1798
+    },
+    {
+      "city": "Doncaster",
+      "Latitude": 53.5285066190723,
+      "Longitude": -1.1223101795802022,
+      "count": 3859
+    },
+    {
+      "city": "Barnsley",
+      "Latitude": 53.542642298739494,
+      "Longitude": -1.4684289915966386,
+      "count": 2380
+    },
+    {
+      "city": "Sheffield",
+      "Latitude": 53.3874742250724,
+      "Longitude": -1.4578883218866363,
+      "count": 4835
+    },
+    {
+      "city": "Rotherham",
+      "Latitude": 53.424824166320164,
+      "Longitude": -1.317417018018018,
+      "count": 2886
+    },
+    {
+      "city": "North East Lincolnshire",
+      "Latitude": 53.55890021183801,
+      "Longitude": -0.09213619470404985,
+      "count": 1926
+    },
+    {
+      "city": "North Lincolnshire",
+      "Latitude": 53.58191225230919,
+      "Longitude": -0.6117227564414195,
+      "count": 2057
+    },
+    {
+      "city": "East Riding of Yorkshire",
+      "Latitude": 53.845317919699255,
+      "Longitude": -0.4806224363909775,
+      "count": 3325
+    },
+    {
+      "city": "Kingston upon Hull, City of",
+      "Latitude": 53.75839534233926,
+      "Longitude": -0.3446433378932969,
+      "count": 2924
+    },
+    {
+      "city": "Hartlepool",
+      "Latitude": 54.67995380392158,
+      "Longitude": -1.2310241470588237,
+      "count": 612
+    },
+    {
+      "city": "Redcar and Cleveland",
+      "Latitude": 54.57155824071991,
+      "Longitude": -1.072736627671541,
+      "count": 889
+    },
+    {
+      "city": "Middlesbrough",
+      "Latitude": 54.55394278025751,
+      "Longitude": -1.2327912824034337,
+      "count": 1165
+    },
+    {
+      "city": "Stockton-on-Tees",
+      "Latitude": 54.56826691109479,
+      "Longitude": -1.3181194357090376,
+      "count": 1361
+    },
+    {
+      "city": "Birmingham",
+      "Latitude": 52.478072582466154,
+      "Longitude": -1.881976494704853,
+      "count": 10859
+    },
+    {
+      "city": "Wolverhampton",
+      "Latitude": 52.58565446142578,
+      "Longitude": -2.12000008984375,
+      "count": 2048
+    },
+    {
+      "city": "Walsall",
+      "Latitude": 52.594938404356064,
+      "Longitude": -1.9865266993371211,
+      "count": 2112
+    },
+    {
+      "city": "Dudley",
+      "Latitude": 52.48923087505721,
+      "Longitude": -2.1046656645308923,
+      "count": 2185
+    },
+    {
+      "city": "Sandwell",
+      "Latitude": 52.511810617973076,
+      "Longitude": -2.0050638087885986,
+      "count": 2526
+    },
+    {
+      "city": "Solihull",
+      "Latitude": 52.429092306134606,
+      "Longitude": -1.764645462179869,
+      "count": 1679
+    },
+    {
+      "city": "Coventry",
+      "Latitude": 52.413661480510015,
+      "Longitude": -1.5052143431693992,
+      "count": 2745
+    },
+    {
+      "city": "Stoke-on-Trent",
+      "Latitude": 53.01621599936507,
+      "Longitude": -2.170447173650794,
+      "count": 3155
+    },
+    {
+      "city": "Newcastle-under-Lyme",
+      "Latitude": 53.02724776,
+      "Longitude": -2.2564207119999997,
+      "count": 1375
+    },
+    {
+      "city": "Stafford",
+      "Latitude": 52.84715704058442,
+      "Longitude": -2.1342077056277056,
+      "count": 1848
+    },
+    {
+      "city": "Staffordshire Moorlands",
+      "Latitude": 53.053933412256264,
+      "Longitude": -2.037646798514392,
+      "count": 1077
+    },
+    {
+      "city": "East Staffordshire",
+      "Latitude": 52.82881102535762,
+      "Longitude": -1.7039200533159948,
+      "count": 1538
+    },
+    {
+      "city": "Cannock Chase",
+      "Latitude": 52.70207993679245,
+      "Longitude": -1.9979913132075469,
+      "count": 1060
+    },
+    {
+      "city": "South Staffordshire",
+      "Latitude": 52.63841901702997,
+      "Longitude": -2.127290772479564,
+      "count": 1468
+    },
+    {
+      "city": "Lichfield",
+      "Latitude": 52.67141469172932,
+      "Longitude": -1.830779808270677,
+      "count": 1330
+    },
+    {
+      "city": "Tamworth",
+      "Latitude": 52.624216743105954,
+      "Longitude": -1.6814237721335268,
+      "count": 689
+    },
+    {
+      "city": "Worcester",
+      "Latitude": 52.1959276640625,
+      "Longitude": -2.2114417096354164,
+      "count": 768
+    },
+    {
+      "city": "Wychavon",
+      "Latitude": 52.17731606165541,
+      "Longitude": -2.068459587837838,
+      "count": 1184
+    },
+    {
+      "city": "Malvern Hills",
+      "Latitude": 52.14968969829684,
+      "Longitude": -2.307579037712895,
+      "count": 822
+    },
+    {
+      "city": "Wyre Forest",
+      "Latitude": 52.378474922995785,
+      "Longitude": -2.2559156097046413,
+      "count": 948
+    },
+    {
+      "city": "Bromsgrove",
+      "Latitude": 52.36147435054944,
+      "Longitude": -2.0261676802197806,
+      "count": 910
+    },
+    {
+      "city": "Redditch",
+      "Latitude": 52.29695409882747,
+      "Longitude": -1.9330928341708544,
+      "count": 597
+    },
+    {
+      "city": "Herefordshire, County of",
+      "Latitude": 52.066918167528435,
+      "Longitude": -2.6901782259565667,
+      "count": 1934
+    },
+    {
+      "city": "Shrewsbury and Atcham",
+      "Latitude": 52.702900750000005,
+      "Longitude": -2.7560863464912275,
+      "count": 228
+    },
+    {
+      "city": "Oswestry",
+      "Latitude": 52.85660496385542,
+      "Longitude": -3.032012795180723,
+      "count": 83
+    },
+    {
+      "city": "Telford and Wrekin",
+      "Latitude": 52.69549307204385,
+      "Longitude": -2.463898751761942,
+      "count": 1277
+    },
+    {
+      "city": "South Shropshire",
+      "Latitude": 52.42724971052632,
+      "Longitude": -2.7655579605263156,
+      "count": 76
+    },
+    {
+      "city": "Bridgnorth",
+      "Latitude": 52.588075884892085,
+      "Longitude": -2.3773521079136692,
+      "count": 139
+    },
+    {
+      "city": "North Shropshire",
+      "Latitude": 52.8725209593496,
+      "Longitude": -2.650135829268293,
+      "count": 123
+    },
+    {
+      "city": "Stratford-upon-Avon",
+      "Latitude": 52.207479608811745,
+      "Longitude": -1.672997688918558,
+      "count": 1498
+    },
+    {
+      "city": "Warwick",
+      "Latitude": 52.29721249271845,
+      "Longitude": -1.561081453276699,
+      "count": 1648
+    },
+    {
+      "city": "North Warwickshire",
+      "Latitude": 52.53671147937294,
+      "Longitude": -1.6332839628712872,
+      "count": 1212
+    },
+    {
+      "city": "Nuneaton and Bedworth",
+      "Latitude": 52.50355671440898,
+      "Longitude": -1.478233798101812,
+      "count": 1159
+    },
+    {
+      "city": "Rugby",
+      "Latitude": 52.38806671957237,
+      "Longitude": -1.3106367582236842,
+      "count": 1216
+    },
+    {
+      "city": "Amber Valley",
+      "Latitude": 53.04177182180851,
+      "Longitude": -1.4181837677304965,
+      "count": 1128
+    },
+    {
+      "city": "Erewash",
+      "Latitude": 52.9317158826923,
+      "Longitude": -1.326229308653846,
+      "count": 1040
+    },
+    {
+      "city": "Bolsover",
+      "Latitude": 53.19089878594594,
+      "Longitude": -1.2941166021621622,
+      "count": 925
+    },
+    {
+      "city": "Derbyshire Dales",
+      "Latitude": 53.12751510196987,
+      "Longitude": -1.6619528285052145,
+      "count": 863
+    },
+    {
+      "city": "High Peak",
+      "Latitude": 53.35094841284403,
+      "Longitude": -1.9196505347313237,
+      "count": 763
+    },
+    {
+      "city": "North East Derbyshire",
+      "Latitude": 53.22485995177165,
+      "Longitude": -1.4036600108267716,
+      "count": 1016
+    },
+    {
+      "city": "Chesterfield",
+      "Latitude": 53.246453849115504,
+      "Longitude": -1.4148262715920916,
+      "count": 961
+    },
+    {
+      "city": "South Derbyshire",
+      "Latitude": 52.8248732597137,
+      "Longitude": -1.5501272546012272,
+      "count": 978
+    },
+    {
+      "city": "Derby",
+      "Latitude": 52.914076152158,
+      "Longitude": -1.4714810720555962,
+      "count": 2734
+    },
+    {
+      "city": "Mansfield",
+      "Latitude": 53.15311324097397,
+      "Longitude": -1.184418602854744,
+      "count": 1191
+    },
+    {
+      "city": "Ashfield",
+      "Latitude": 53.09698207003012,
+      "Longitude": -1.2526548983433734,
+      "count": 1328
+    },
+    {
+      "city": "Bassetlaw",
+      "Latitude": 53.322398586840094,
+      "Longitude": -1.0368225547054322,
+      "count": 1307
+    },
+    {
+      "city": "Newark and Sherwood",
+      "Latitude": 53.10678918065434,
+      "Longitude": -0.9113748549075391,
+      "count": 1406
+    },
+    {
+      "city": "Nottingham",
+      "Latitude": 52.964363402383135,
+      "Longitude": -1.1715445267338833,
+      "count": 3273
+    },
+    {
+      "city": "Rushcliffe",
+      "Latitude": 52.91034060703125,
+      "Longitude": -1.0789928585937498,
+      "count": 1280
+    },
+    {
+      "city": "Gedling",
+      "Latitude": 53.00782684836852,
+      "Longitude": -1.118627969289827,
+      "count": 1042
+    },
+    {
+      "city": "Broxtowe",
+      "Latitude": 52.96165364573111,
+      "Longitude": -1.2529282208047103,
+      "count": 1019
+    },
+    {
+      "city": "South Kesteven",
+      "Latitude": 52.838738936893215,
+      "Longitude": -0.547669592926491,
+      "count": 1442
+    },
+    {
+      "city": "South Holland",
+      "Latitude": 52.787496752074695,
+      "Longitude": -0.07311740145228215,
+      "count": 964
+    },
+    {
+      "city": "North Kesteven",
+      "Latitude": 53.10707094667591,
+      "Longitude": -0.4864015013850415,
+      "count": 1444
+    },
+    {
+      "city": "East Lindsey",
+      "Latitude": 53.2395962132948,
+      "Longitude": 0.07513105953757226,
+      "count": 1730
+    },
+    {
+      "city": "West Lindsey",
+      "Latitude": 53.358894384121896,
+      "Longitude": -0.5448389695268645,
+      "count": 1247
+    },
+    {
+      "city": "Boston",
+      "Latitude": 52.96673946107785,
+      "Longitude": -0.03741765868263473,
+      "count": 835
+    },
+    {
+      "city": "Lincoln",
+      "Latitude": 53.22567151098454,
+      "Longitude": -0.5502923425549228,
+      "count": 1229
+    },
+    {
+      "city": "Harborough",
+      "Latitude": 52.50837661397058,
+      "Longitude": -1.0680619534313724,
+      "count": 816
+    },
+    {
+      "city": "Leicester",
+      "Latitude": 52.634912051228284,
+      "Longitude": -1.1266539002396645,
+      "count": 3338
+    },
+    {
+      "city": "Charnwood",
+      "Latitude": 52.73533926299456,
+      "Longitude": -1.1717056555469356,
+      "count": 1289
+    },
+    {
+      "city": "North West Leicestershire",
+      "Latitude": 52.759842744000004,
+      "Longitude": -1.3882596239999998,
+      "count": 1000
+    },
+    {
+      "city": "Rutland",
+      "Latitude": 52.65073087605634,
+      "Longitude": -0.644830952112676,
+      "count": 355
+    },
+    {
+      "city": "Blaby",
+      "Latitude": 52.590935733035714,
+      "Longitude": -1.2014901160714286,
+      "count": 1120
+    },
+    {
+      "city": "Oadby and Wigston",
+      "Latitude": 52.592658426303856,
+      "Longitude": -1.098666986394558,
+      "count": 441
+    },
+    {
+      "city": "Melton",
+      "Latitude": 52.784245400817994,
+      "Longitude": -0.8897979509202453,
+      "count": 489
+    },
+    {
+      "city": "Hinckley and Bosworth",
+      "Latitude": 52.5953014885246,
+      "Longitude": -1.3481373945355193,
+      "count": 915
+    },
+    {
+      "city": "Kettering",
+      "Latitude": 52.40390102734839,
+      "Longitude": -0.7399126397146253,
+      "count": 841
+    },
+    {
+      "city": "Corby",
+      "Latitude": 52.48777200738917,
+      "Longitude": -0.703402184729064,
+      "count": 406
+    },
+    {
+      "city": "East Northamptonshire",
+      "Latitude": 52.3703865911414,
+      "Longitude": -0.5624178603066439,
+      "count": 587
+    },
+    {
+      "city": "Daventry",
+      "Latitude": 52.301991138562094,
+      "Longitude": -1.0582204052287583,
+      "count": 765
+    },
+    {
+      "city": "South Northamptonshire",
+      "Latitude": 52.12682927748691,
+      "Longitude": -1.0124827735602093,
+      "count": 764
+    },
+    {
+      "city": "Northampton",
+      "Latitude": 52.24422106548672,
+      "Longitude": -0.8830532572271387,
+      "count": 1695
+    },
+    {
+      "city": "Wellingborough",
+      "Latitude": 52.296892145234494,
+      "Longitude": -0.7054222178517398,
+      "count": 661
+    },
+    {
+      "city": "South Cambridgeshire",
+      "Latitude": 52.18766752777777,
+      "Longitude": 0.09262316717171717,
+      "count": 1980
+    },
+    {
+      "city": "Huntingdonshire",
+      "Latitude": 52.353625017302804,
+      "Longitude": -0.18849658982188297,
+      "count": 1965
+    },
+    {
+      "city": "Peterborough",
+      "Latitude": 52.58314292166416,
+      "Longitude": -0.2592814096701649,
+      "count": 2668
+    },
+    {
+      "city": "East Cambridgeshire",
+      "Latitude": 52.3401124815756,
+      "Longitude": 0.29201275349428213,
+      "count": 787
+    },
+    {
+      "city": "Cambridge",
+      "Latitude": 52.20269547263313,
+      "Longitude": 0.13403094748520708,
+      "count": 1352
+    },
+    {
+      "city": "Fenland",
+      "Latitude": 52.59207303726708,
+      "Longitude": 0.07913220763087843,
+      "count": 1127
+    },
+    {
+      "city": "Great Yarmouth",
+      "Latitude": 52.61051402469136,
+      "Longitude": 1.7022193497942388,
+      "count": 729
+    },
+    {
+      "city": "King's Lynn and West Norfolk",
+      "Latitude": 52.72931609433963,
+      "Longitude": 0.42945850067385444,
+      "count": 1484
+    },
+    {
+      "city": "Broadland",
+      "Latitude": 52.67994987952822,
+      "Longitude": 1.314091896377422,
+      "count": 1187
+    },
+    {
+      "city": "South Norfolk",
+      "Latitude": 52.54631283813747,
+      "Longitude": 1.253265803399852,
+      "count": 1353
+    },
+    {
+      "city": "North Norfolk",
+      "Latitude": 52.8431340167264,
+      "Longitude": 1.203556247311828,
+      "count": 837
+    },
+    {
+      "city": "Norwich",
+      "Latitude": 52.63417895420975,
+      "Longitude": 1.279614096011817,
+      "count": 1354
+    },
+    {
+      "city": "Breckland",
+      "Latitude": 52.5745689198636,
+      "Longitude": 0.853245537084399,
+      "count": 1173
+    },
+    {
+      "city": "St. Edmundsbury",
+      "Latitude": 52.2229691247892,
+      "Longitude": 0.6706904207419899,
+      "count": 1186
+    },
+    {
+      "city": "Suffolk Coastal",
+      "Latitude": 52.10926596797671,
+      "Longitude": 1.3565029919941776,
+      "count": 1374
+    },
+    {
+      "city": "Forest Heath",
+      "Latitude": 52.337252795454546,
+      "Longitude": 0.5172424237967914,
+      "count": 748
+    },
+    {
+      "city": "Babergh",
+      "Latitude": 52.03660391623489,
+      "Longitude": 0.9252708713298791,
+      "count": 1158
+    },
+    {
+      "city": "Mid Suffolk",
+      "Latitude": 52.21345815909091,
+      "Longitude": 1.042815740118577,
+      "count": 1012
+    },
+    {
+      "city": "Ipswich",
+      "Latitude": 52.05497818307805,
+      "Longitude": 1.1605744989059081,
+      "count": 1371
+    },
+    {
+      "city": "Waveney",
+      "Latitude": 52.45210470578085,
+      "Longitude": 1.6660338075927523,
+      "count": 1159
+    },
+    {
+      "city": "Bedford",
+      "Latitude": 52.14270261117788,
+      "Longitude": -0.4611490132211538,
+      "count": 1666
+    },
+    {
+      "city": "Mid Bedfordshire",
+      "Latitude": 52.036687690140845,
+      "Longitude": -0.4360420422535211,
+      "count": 284
+    },
+    {
+      "city": "Luton",
+      "Latitude": 51.89295285463801,
+      "Longitude": -0.43364325848416296,
+      "count": 1768
+    },
+    {
+      "city": "South Bedfordshire",
+      "Latitude": 51.9031849968254,
+      "Longitude": -0.5338401396825396,
+      "count": 315
+    },
+    {
+      "city": "East Hertfordshire",
+      "Latitude": 51.83359959137427,
+      "Longitude": 0.0033755000000000005,
+      "count": 1368
+    },
+    {
+      "city": "North Hertfordshire",
+      "Latitude": 51.948798538032094,
+      "Longitude": -0.21504048429867414,
+      "count": 1433
+    },
+    {
+      "city": "Welwyn Hatfield",
+      "Latitude": 51.77704058554044,
+      "Longitude": -0.20799099642090194,
+      "count": 1397
+    },
+    {
+      "city": "Broxbourne",
+      "Latitude": 51.71927251314406,
+      "Longitude": -0.03637088433228181,
+      "count": 951
+    },
+    {
+      "city": "Watford",
+      "Latitude": 51.66652285683987,
+      "Longitude": -0.399439591728526,
+      "count": 943
+    },
+    {
+      "city": "Hertsmere",
+      "Latitude": 51.674573317619334,
+      "Longitude": -0.27723983441367117,
+      "count": 1697
+    },
+    {
+      "city": "Three Rivers",
+      "Latitude": 51.659448190106694,
+      "Longitude": -0.447651314258002,
+      "count": 1031
+    },
+    {
+      "city": "Dacorum",
+      "Latitude": 51.761784879732744,
+      "Longitude": -0.4920338893838159,
+      "count": 1347
+    },
+    {
+      "city": "Stevenage",
+      "Latitude": 51.90445212785388,
+      "Longitude": -0.19515948059360733,
+      "count": 876
+    },
+    {
+      "city": "St. Albans",
+      "Latitude": 51.7579030805153,
+      "Longitude": -0.34870909125067096,
+      "count": 1863
+    },
+    {
+      "city": "Uttlesford",
+      "Latitude": 51.92415358196722,
+      "Longitude": 0.2566243255269321,
+      "count": 854
+    },
+    {
+      "city": "Braintree",
+      "Latitude": 51.870921868222894,
+      "Longitude": 0.6089986603915662,
+      "count": 1328
+    },
+    {
+      "city": "Colchester",
+      "Latitude": 51.884641979045405,
+      "Longitude": 0.8763187945285215,
+      "count": 1718
+    },
+    {
+      "city": "Epping Forest",
+      "Latitude": 51.6815320027027,
+      "Longitude": 0.09597652216216217,
+      "count": 1850
+    },
+    {
+      "city": "Basildon",
+      "Latitude": 51.58360158363732,
+      "Longitude": 0.4729474471078687,
+      "count": 1919
+    },
+    {
+      "city": "Chelmsford",
+      "Latitude": 51.72195783588391,
+      "Longitude": 0.4932266437994723,
+      "count": 1895
+    },
+    {
+      "city": "Thurrock",
+      "Latitude": 51.497316479865766,
+      "Longitude": 0.32833415212527967,
+      "count": 1788
+    },
+    {
+      "city": "Maldon",
+      "Latitude": 51.70738627387387,
+      "Longitude": 0.7171343531531531,
+      "count": 555
+    },
+    {
+      "city": "Brentwood",
+      "Latitude": 51.62109390405117,
+      "Longitude": 0.3115076002132196,
+      "count": 938
+    },
+    {
+      "city": "Tendring",
+      "Latitude": 51.84887263165467,
+      "Longitude": 1.1241918302158274,
+      "count": 1390
+    },
+    {
+      "city": "Harlow",
+      "Latitude": 51.76785497818792,
+      "Longitude": 0.10785727516778522,
+      "count": 596
+    },
+    {
+      "city": "Southend-on-Sea",
+      "Latitude": 51.547979635028256,
+      "Longitude": 0.6986363870056497,
+      "count": 1770
+    },
+    {
+      "city": "Castle Point",
+      "Latitude": 51.54948487305123,
+      "Longitude": 0.5791123318485524,
+      "count": 898
+    },
+    {
+      "city": "Rochford",
+      "Latitude": 51.58987771875001,
+      "Longitude": 0.6487608053977273,
+      "count": 704
+    },
+    {
+      "city": "Aylesbury Vale",
+      "Latitude": 51.86094526970721,
+      "Longitude": -0.8393129239864865,
+      "count": 1776
+    },
+    {
+      "city": "Wycombe",
+      "Latitude": 51.6340782073704,
+      "Longitude": -0.765564591505309,
+      "count": 1601
+    },
+    {
+      "city": "South Bucks",
+      "Latitude": 51.55624702354788,
+      "Longitude": -0.5752531208791208,
+      "count": 1274
+    },
+    {
+      "city": "Milton Keynes",
+      "Latitude": 52.03934044358088,
+      "Longitude": -0.7499589306275187,
+      "count": 3474
+    },
+    {
+      "city": "Chiltern",
+      "Latitude": 51.671989690340915,
+      "Longitude": -0.6146757144886363,
+      "count": 704
+    },
+    {
+      "city": "Slough",
+      "Latitude": 51.50962308419338,
+      "Longitude": -0.5897720429114612,
+      "count": 1841
+    },
+    {
+      "city": "Cherwell",
+      "Latitude": 51.943652877145915,
+      "Longitude": -1.2631566469957083,
+      "count": 1864
+    },
+    {
+      "city": "South Oxfordshire",
+      "Latitude": 51.6404956506899,
+      "Longitude": -1.0864356005809732,
+      "count": 1377
+    },
+    {
+      "city": "Vale of White Horse",
+      "Latitude": 51.66179358473154,
+      "Longitude": -1.3543102365771813,
+      "count": 1192
+    },
+    {
+      "city": "West Oxfordshire",
+      "Latitude": 51.82052483282674,
+      "Longitude": -1.4861841134751772,
+      "count": 987
+    },
+    {
+      "city": "Oxford",
+      "Latitude": 51.75095650868878,
+      "Longitude": -1.2309456090047393,
+      "count": 1266
+    },
+    {
+      "city": "West Berkshire",
+      "Latitude": 51.43030085793103,
+      "Longitude": -1.240701172413793,
+      "count": 1450
+    },
+    {
+      "city": "Wokingham",
+      "Latitude": 51.42888015195702,
+      "Longitude": -0.8850623875671528,
+      "count": 1303
+    },
+    {
+      "city": "Windsor and Maidenhead",
+      "Latitude": 51.489553803677346,
+      "Longitude": -0.6884940919335706,
+      "count": 1686
+    },
+    {
+      "city": "Bracknell Forest",
+      "Latitude": 51.399112651358955,
+      "Longitude": -0.7504926373008436,
+      "count": 1067
+    },
+    {
+      "city": "Reading",
+      "Latitude": 51.449974050604226,
+      "Longitude": -0.9775236155589123,
+      "count": 1324
+    },
+    {
+      "city": "East Hampshire",
+      "Latitude": 51.06123486106347,
+      "Longitude": -0.9395856266094421,
+      "count": 1166
+    },
+    {
+      "city": "Havant",
+      "Latitude": 50.860172842968076,
+      "Longitude": -1.0014150241587576,
+      "count": 1159
+    },
+    {
+      "city": "Gosport",
+      "Latitude": 50.80578443255814,
+      "Longitude": -1.1599986155038757,
+      "count": 645
+    },
+    {
+      "city": "Winchester",
+      "Latitude": 51.018229890977445,
+      "Longitude": -1.2628011177944862,
+      "count": 1596
+    },
+    {
+      "city": "Isle of Wight",
+      "Latitude": 50.689866011154855,
+      "Longitude": -1.2546190150918635,
+      "count": 1524
+    },
+    {
+      "city": "New Forest",
+      "Latitude": 50.84908646078909,
+      "Longitude": -1.590579499756454,
+      "count": 2053
+    },
+    {
+      "city": "Fareham",
+      "Latitude": 50.85410272964169,
+      "Longitude": -1.2033150700325732,
+      "count": 1228
+    },
+    {
+      "city": "Test Valley",
+      "Latitude": 51.085842130158724,
+      "Longitude": -1.4813777325396826,
+      "count": 1260
+    },
+    {
+      "city": "Rushmoor",
+      "Latitude": 51.279309971131646,
+      "Longitude": -0.7630975334872979,
+      "count": 866
+    },
+    {
+      "city": "Basingstoke and Deane",
+      "Latitude": 51.27231935622317,
+      "Longitude": -1.135514182096873,
+      "count": 1631
+    },
+    {
+      "city": "Portsmouth",
+      "Latitude": 50.817585744217084,
+      "Longitude": -1.0735037731316728,
+      "count": 2248
+    },
+    {
+      "city": "Eastleigh",
+      "Latitude": 50.941608301322205,
+      "Longitude": -1.3413918594293666,
+      "count": 1437
+    },
+    {
+      "city": "Hart",
+      "Latitude": 51.294880679704015,
+      "Longitude": -0.8671351553911205,
+      "count": 946
+    },
+    {
+      "city": "Southampton",
+      "Latitude": 50.918941953536184,
+      "Longitude": -1.3989638815789476,
+      "count": 2432
+    },
+    {
+      "city": "Elmbridge",
+      "Latitude": 51.36458423681542,
+      "Longitude": -0.39155260598377284,
+      "count": 1972
+    },
+    {
+      "city": "Runnymede",
+      "Latitude": 51.394063634604755,
+      "Longitude": -0.5280187932559426,
+      "count": 1809
+    },
+    {
+      "city": "Guildford",
+      "Latitude": 51.25373702030282,
+      "Longitude": -0.5768528719889883,
+      "count": 2906
+    },
+    {
+      "city": "Spelthorne",
+      "Latitude": 51.42606096843519,
+      "Longitude": -0.46826013096037605,
+      "count": 1489
+    },
+    {
+      "city": "Mole Valley",
+      "Latitude": 51.257179280328984,
+      "Longitude": -0.3215041843728581,
+      "count": 1459
+    },
+    {
+      "city": "Epsom and Ewell",
+      "Latitude": 51.34440561934673,
+      "Longitude": -0.2596550351758794,
+      "count": 796
+    },
+    {
+      "city": "Reigate and Banstead",
+      "Latitude": 51.25490239046392,
+      "Longitude": -0.18851675515463917,
+      "count": 2328
+    },
+    {
+      "city": "Woking",
+      "Latitude": 51.32069784603996,
+      "Longitude": -0.554347817172465,
+      "count": 1351
+    },
+    {
+      "city": "Waverley",
+      "Latitude": 51.16977578759084,
+      "Longitude": -0.6845335835662381,
+      "count": 1789
+    },
+    {
+      "city": "Surrey Heath",
+      "Latitude": 51.33816633630574,
+      "Longitude": -0.706527876433121,
+      "count": 1570
+    },
+    {
+      "city": "Tandridge",
+      "Latitude": 51.24225956828442,
+      "Longitude": -0.06215585214446953,
+      "count": 1772
+    },
+    {
+      "city": "Medway",
+      "Latitude": 51.37859244082945,
+      "Longitude": 0.5351162273864856,
+      "count": 2797
+    },
+    {
+      "city": "Dartford",
+      "Latitude": 51.43430784766839,
+      "Longitude": 0.24467019170984458,
+      "count": 1930
+    },
+    {
+      "city": "Sevenoaks",
+      "Latitude": 51.31363197389684,
+      "Longitude": 0.17686702796768178,
+      "count": 1609
+    },
+    {
+      "city": "Dover",
+      "Latitude": 51.18041282247993,
+      "Longitude": 1.3118226779661017,
+      "count": 1121
+    },
+    {
+      "city": "Shepway",
+      "Latitude": 51.07515160586319,
+      "Longitude": 1.0904017532573291,
+      "count": 1228
+    },
+    {
+      "city": "Canterbury",
+      "Latitude": 51.30413144827586,
+      "Longitude": 1.0946497108287963,
+      "count": 1653
+    },
+    {
+      "city": "Tunbridge Wells",
+      "Latitude": 51.13155522161046,
+      "Longitude": 0.35015287336545087,
+      "count": 1453
+    },
+    {
+      "city": "Tonbridge and Malling",
+      "Latitude": 51.275507498882675,
+      "Longitude": 0.38492492960893854,
+      "count": 1790
+    },
+    {
+      "city": "Maidstone",
+      "Latitude": 51.26247538809947,
+      "Longitude": 0.5493091802841917,
+      "count": 2252
+    },
+    {
+      "city": "Gravesham",
+      "Latitude": 51.420807061172475,
+      "Longitude": 0.3733982039082413,
+      "count": 1177
+    },
+    {
+      "city": "Swale",
+      "Latitude": 51.34947822335943,
+      "Longitude": 0.7783081119807345,
+      "count": 1661
+    },
+    {
+      "city": "Ashford",
+      "Latitude": 51.13852574440299,
+      "Longitude": 0.8387367599502487,
+      "count": 1608
+    },
+    {
+      "city": "Thanet",
+      "Latitude": 51.3625058830549,
+      "Longitude": 1.3809277941527445,
+      "count": 1676
+    },
+    {
+      "city": "Wealden",
+      "Latitude": 50.9353064158126,
+      "Longitude": 0.20276093997071742,
+      "count": 2049
+    },
+    {
+      "city": "Eastbourne",
+      "Latitude": 50.783573472472476,
+      "Longitude": 0.28613479779779777,
+      "count": 999
+    },
+    {
+      "city": "Rother",
+      "Latitude": 50.91170517320819,
+      "Longitude": 0.5159119052901023,
+      "count": 1172
+    },
+    {
+      "city": "Brighton and Hove",
+      "Latitude": 50.836787432330816,
+      "Longitude": -0.14488275495557074,
+      "count": 2926
+    },
+    {
+      "city": "Mid Sussex",
+      "Latitude": 51.01733039702381,
+      "Longitude": -0.1254863988095238,
+      "count": 1680
+    },
+    {
+      "city": "Chichester",
+      "Latitude": 50.88134649106003,
+      "Longitude": -0.7561376443167305,
+      "count": 1566
+    },
+    {
+      "city": "Worthing",
+      "Latitude": 50.82387004695652,
+      "Longitude": -0.38901483130434783,
+      "count": 1150
+    },
+    {
+      "city": "Crawley",
+      "Latitude": 51.1212737804054,
+      "Longitude": -0.17962547128378378,
+      "count": 1184
+    },
+    {
+      "city": "Arun",
+      "Latitude": 50.81591104638088,
+      "Longitude": -0.5876060829234012,
+      "count": 1423
+    },
+    {
+      "city": "Horsham",
+      "Latitude": 51.01174033605999,
+      "Longitude": -0.35253088820722567,
+      "count": 1467
+    },
+    {
+      "city": "Lewes",
+      "Latitude": 50.85505074515504,
+      "Longitude": 0.017433149224806203,
+      "count": 1032
+    },
+    {
+      "city": "Adur",
+      "Latitude": 50.83706332053176,
+      "Longitude": -0.28229546676514033,
+      "count": 677
+    },
+    {
+      "city": "Hastings",
+      "Latitude": 50.866907000000005,
+      "Longitude": 0.5637950518018018,
+      "count": 888
+    },
+    {
+      "city": "Kerrier",
+      "Latitude": 50.19633844949495,
+      "Longitude": -5.2548905707070706,
+      "count": 198
+    },
+    {
+      "city": "Carrick",
+      "Latitude": 50.2547257080292,
+      "Longitude": -5.078204467153284,
+      "count": 274
+    },
+    {
+      "city": "Penwith",
+      "Latitude": 50.14263060544218,
+      "Longitude": -5.507006503401361,
+      "count": 147
+    },
+    {
+      "city": "Restormel",
+      "Latitude": 50.37868842248062,
+      "Longitude": -4.876973736434108,
+      "count": 258
+    },
+    {
+      "city": "North Cornwall",
+      "Latitude": 50.59485682857143,
+      "Longitude": -4.617408807142857,
+      "count": 280
+    },
+    {
+      "city": "West Devon",
+      "Latitude": 50.63671712262774,
+      "Longitude": -4.068763664233576,
+      "count": 685
+    },
+    {
+      "city": "Caradon",
+      "Latitude": 50.44132043,
+      "Longitude": -4.364508359999999,
+      "count": 200
+    },
+    {
+      "city": "Torridge",
+      "Latitude": 50.93354386574871,
+      "Longitude": -4.226260320137693,
+      "count": 581
+    },
+    {
+      "city": "North Devon",
+      "Latitude": 51.07872675644995,
+      "Longitude": -4.0241911888544895,
+      "count": 969
+    },
+    {
+      "city": "Exeter",
+      "Latitude": 50.72096797704918,
+      "Longitude": -3.511934077868853,
+      "count": 1220
+    },
+    {
+      "city": "East Devon",
+      "Latitude": 50.72888171490594,
+      "Longitude": -3.2633879493487705,
+      "count": 1382
+    },
+    {
+      "city": "Teignbridge",
+      "Latitude": 50.56966071410419,
+      "Longitude": -3.595088716010165,
+      "count": 1574
+    },
+    {
+      "city": "Mid Devon",
+      "Latitude": 50.87123637825421,
+      "Longitude": -3.4914364349157734,
+      "count": 653
+    },
+    {
+      "city": "Plymouth",
+      "Latitude": 50.39005467502612,
+      "Longitude": -4.128485381748519,
+      "count": 2871
+    },
+    {
+      "city": "South Hams",
+      "Latitude": 50.38289242926829,
+      "Longitude": -3.831261505365853,
+      "count": 1025
+    },
+    {
+      "city": "Torbay",
+      "Latitude": 50.453439487629694,
+      "Longitude": -3.5530483687150842,
+      "count": 1253
+    },
+    {
+      "city": "Bristol, City of",
+      "Latitude": 51.46047286084402,
+      "Longitude": -2.587027056891026,
+      "count": 3744
+    },
+    {
+      "city": "Bath and North East Somerset",
+      "Latitude": 51.36386371597222,
+      "Longitude": -2.429261384027778,
+      "count": 1440
+    },
+    {
+      "city": "Sedgemoor",
+      "Latitude": 51.17117511697807,
+      "Longitude": -2.96547341754671,
+      "count": 1231
+    },
+    {
+      "city": "Mendip",
+      "Latitude": 51.20498939766082,
+      "Longitude": -2.5274666812865494,
+      "count": 1026
+    },
+    {
+      "city": "South Gloucestershire",
+      "Latitude": 51.51441915067304,
+      "Longitude": -2.505054631784629,
+      "count": 2303
+    },
+    {
+      "city": "Taunton Deane",
+      "Latitude": 51.01179307666941,
+      "Longitude": -3.118938071723001,
+      "count": 1213
+    },
+    {
+      "city": "South Somerset",
+      "Latitude": 50.964562050441366,
+      "Longitude": -2.714032598991173,
+      "count": 1586
+    },
+    {
+      "city": "North Somerset",
+      "Latitude": 51.38607375455967,
+      "Longitude": -2.839421137571652,
+      "count": 1919
+    },
+    {
+      "city": "West Somerset",
+      "Latitude": 51.1623227124183,
+      "Longitude": -3.4083839771241835,
+      "count": 306
+    },
+    {
+      "city": "Stroud",
+      "Latitude": 51.7326844684066,
+      "Longitude": -2.275645130494506,
+      "count": 728
+    },
+    {
+      "city": "Gloucester",
+      "Latitude": 51.855461857142856,
+      "Longitude": -2.235828392575928,
+      "count": 889
+    },
+    {
+      "city": "Tewkesbury",
+      "Latitude": 51.920229780519485,
+      "Longitude": -2.143548420779221,
+      "count": 770
+    },
+    {
+      "city": "Forest of Dean",
+      "Latitude": 51.82103631554161,
+      "Longitude": -2.497384026687598,
+      "count": 637
+    },
+    {
+      "city": "Cotswold",
+      "Latitude": 51.801853831001075,
+      "Longitude": -1.9149238923573735,
+      "count": 929
+    },
+    {
+      "city": "Cheltenham",
+      "Latitude": 51.8994479798271,
+      "Longitude": -2.087508537463977,
+      "count": 694
+    },
+    {
+      "city": "Salisbury",
+      "Latitude": 51.09533533630953,
+      "Longitude": -1.8602820565476192,
+      "count": 336
+    },
+    {
+      "city": "Kennet",
+      "Latitude": 51.36510800602409,
+      "Longitude": -1.810180518072289,
+      "count": 166
+    },
+    {
+      "city": "West Wiltshire",
+      "Latitude": 51.2978961752988,
+      "Longitude": -2.1890282310756968,
+      "count": 251
+    },
+    {
+      "city": "North Wiltshire",
+      "Latitude": 51.50434852351096,
+      "Longitude": -2.0587932194357363,
+      "count": 319
+    },
+    {
+      "city": "Swindon",
+      "Latitude": 51.568089269249164,
+      "Longitude": -1.771413712577714,
+      "count": 2091
+    },
+    {
+      "city": "Bournemouth",
+      "Latitude": 50.738057601414056,
+      "Longitude": -1.8624160618647811,
+      "count": 2263
+    },
+    {
+      "city": "Poole",
+      "Latitude": 50.73537802123995,
+      "Longitude": -1.956016914466131,
+      "count": 1742
+    },
+    {
+      "city": "North Dorset",
+      "Latitude": 50.92504342522523,
+      "Longitude": -2.221944363963964,
+      "count": 555
+    },
+    {
+      "city": "East Dorset",
+      "Latitude": 50.823089366666665,
+      "Longitude": -1.9243344266666667,
+      "count": 1050
+    },
+    {
+      "city": "Christchurch",
+      "Latitude": 50.74816455018587,
+      "Longitude": -1.7753429572490707,
+      "count": 538
+    },
+    {
+      "city": "Purbeck",
+      "Latitude": 50.71066475315316,
+      "Longitude": -2.1201395801801803,
+      "count": 555
+    },
+    {
+      "city": "West Dorset",
+      "Latitude": 50.76078628255903,
+      "Longitude": -2.554978814166032,
+      "count": 1313
+    },
+    {
+      "city": "Weymouth and Portland",
+      "Latitude": 50.61493029597198,
+      "Longitude": -2.4587118458844137,
+      "count": 571
+    },
+    {
+      "city": "Isle of Anglesey",
+      "Latitude": 53.27312248235294,
+      "Longitude": -4.339646580392157,
+      "count": 255
+    },
+    {
+      "city": "Conwy",
+      "Latitude": 53.263317052713184,
+      "Longitude": -3.7370408418604653,
+      "count": 645
+    },
+    {
+      "city": "Denbighshire",
+      "Latitude": 53.223909500866554,
+      "Longitude": -3.4011126013864823,
+      "count": 577
+    },
+    {
+      "city": "Flintshire",
+      "Latitude": 53.201618999999994,
+      "Longitude": -3.102281469015796,
+      "count": 823
+    },
+    {
+      "city": "Gwynedd",
+      "Latitude": 52.99201329623288,
+      "Longitude": -4.113060741438356,
+      "count": 584
+    },
+    {
+      "city": "Wrexham",
+      "Latitude": 53.03475712936047,
+      "Longitude": -3.001387613372093,
+      "count": 688
+    },
+    {
+      "city": "Newport",
+      "Latitude": 51.586427948627104,
+      "Longitude": -2.99332224003543,
+      "count": 1129
+    },
+    {
+      "city": "Caerphilly",
+      "Latitude": 51.639694102537,
+      "Longitude": -3.207893877378435,
+      "count": 946
+    },
+    {
+      "city": "Monmouthshire",
+      "Latitude": 51.72618286948853,
+      "Longitude": -2.8611185291005294,
+      "count": 567
+    },
+    {
+      "city": "Torfaen",
+      "Latitude": 51.67453442740286,
+      "Longitude": -3.029501392638037,
+      "count": 489
+    },
+    {
+      "city": "Blaenau Gwent",
+      "Latitude": 51.7736002629108,
+      "Longitude": -3.1966149483568076,
+      "count": 426
+    },
+    {
+      "city": "Swansea",
+      "Latitude": 51.643042072399844,
+      "Longitude": -3.9648582091142965,
+      "count": 2723
+    },
+    {
+      "city": "Merthyr Tydfil",
+      "Latitude": 51.739879759345804,
+      "Longitude": -3.3662748831775704,
+      "count": 428
+    },
+    {
+      "city": "Bridgend",
+      "Latitude": 51.532501779786365,
+      "Longitude": -3.5998124486442076,
+      "count": 1217
+    },
+    {
+      "city": "Cardiff",
+      "Latitude": 51.49967565832013,
+      "Longitude": -3.1899175090332808,
+      "count": 3155
+    },
+    {
+      "city": "Neath Port Talbot",
+      "Latitude": 51.649920346214515,
+      "Longitude": -3.800062837539432,
+      "count": 1268
+    },
+    {
+      "city": "The Vale of Glamorgan",
+      "Latitude": 51.43059978888889,
+      "Longitude": -3.297018800925926,
+      "count": 1080
+    },
+    {
+      "city": "Rhondda, Cynon, Taff",
+      "Latitude": 51.61514223393821,
+      "Longitude": -3.39289657969593,
+      "count": 2039
+    },
+    {
+      "city": "Carmarthenshire",
+      "Latitude": 51.808412500221145,
+      "Longitude": -4.1711848628925265,
+      "count": 2261
+    },
+    {
+      "city": "Ceredigion",
+      "Latitude": 52.27032178679654,
+      "Longitude": -4.188243707792208,
+      "count": 924
+    },
+    {
+      "city": "Pembrokeshire",
+      "Latitude": 51.780838250901226,
+      "Longitude": -4.899310255948089,
+      "count": 1387
+    },
+    {
+      "city": "Powys",
+      "Latitude": 52.319274708643384,
+      "Longitude": -3.352324895248999,
+      "count": 1747
+    },
+    {
+      "city": "Highland",
+      "Latitude": 57.52229152663438,
+      "Longitude": -4.3775279800242135,
+      "count": 1652
+    },
+    {
+      "city": "Western Isles",
+      "Latitude": 57.96368650925925,
+      "Longitude": -6.723739666666666,
+      "count": 108
+    },
+    {
+      "city": "Orkney Islands",
+      "Latitude": 58.994197120879114,
+      "Longitude": -3.0517549340659342,
+      "count": 91
+    },
+    {
+      "city": "Shetland Islands",
+      "Latitude": 60.186882343137256,
+      "Longitude": -1.218158931372549,
+      "count": 102
+    },
+    {
+      "city": "Aberdeen City",
+      "Latitude": 57.15420399139415,
+      "Longitude": -2.1341725456110154,
+      "count": 1162
+    },
+    {
+      "city": "Aberdeenshire",
+      "Latitude": 57.30693322366373,
+      "Longitude": -2.300030389724961,
+      "count": 1928
+    },
+    {
+      "city": "Moray",
+      "Latitude": 57.610147774999994,
+      "Longitude": -3.239517297916667,
+      "count": 480
+    },
+    {
+      "city": "Perth and Kinross",
+      "Latitude": 56.41890789851024,
+      "Longitude": -3.509409559590317,
+      "count": 1074
+    },
+    {
+      "city": "Dundee City",
+      "Latitude": 56.47428078562421,
+      "Longitude": -2.967060789407314,
+      "count": 794
+    },
+    {
+      "city": "Angus",
+      "Latitude": 56.61171441112619,
+      "Longitude": -2.7608146417910446,
+      "count": 737
+    },
+    {
+      "city": "Fife",
+      "Latitude": 56.17000191593126,
+      "Longitude": -3.1890185722248026,
+      "count": 2153
+    },
+    {
+      "city": "Edinburgh, City of",
+      "Latitude": 55.941148357325815,
+      "Longitude": -3.2260989700307374,
+      "count": 3905
+    },
+    {
+      "city": "Scottish Borders",
+      "Latitude": 55.62184043438454,
+      "Longitude": -2.718447207527976,
+      "count": 983
+    },
+    {
+      "city": "West Lothian",
+      "Latitude": 55.89925494533571,
+      "Longitude": -3.5629236844919787,
+      "count": 1684
+    },
+    {
+      "city": "Midlothian",
+      "Latitude": 55.869725738836266,
+      "Longitude": -3.123417650879567,
+      "count": 739
+    },
+    {
+      "city": "East Lothian",
+      "Latitude": 55.95644024637681,
+      "Longitude": -2.904231648953301,
+      "count": 622
+    },
+    {
+      "city": "Stirling",
+      "Latitude": 56.136814283783785,
+      "Longitude": -4.050357871621622,
+      "count": 891
+    },
+    {
+      "city": "Falkirk",
+      "Latitude": 56.008124080136405,
+      "Longitude": -3.7837963759590787,
+      "count": 1173
+    },
+    {
+      "city": "Clackmannanshire",
+      "Latitude": 56.13137021575342,
+      "Longitude": -3.7773887705479443,
+      "count": 292
+    },
+    {
+      "city": "Glasgow City",
+      "Latitude": 55.85743657480458,
+      "Longitude": -4.260888465915287,
+      "count": 5501
+    },
+    {
+      "city": "East Dunbartonshire",
+      "Latitude": 55.927608144067804,
+      "Longitude": -4.2415150033898295,
+      "count": 590
+    },
+    {
+      "city": "East Renfrewshire",
+      "Latitude": 55.78586505567011,
+      "Longitude": -4.335414529896907,
+      "count": 485
+    },
+    {
+      "city": "Renfrewshire",
+      "Latitude": 55.85129823338048,
+      "Longitude": -4.4558772729844405,
+      "count": 1414
+    },
+    {
+      "city": "Inverclyde",
+      "Latitude": 55.939177204855845,
+      "Longitude": -4.758023081942337,
+      "count": 659
+    },
+    {
+      "city": "Argyll and Bute",
+      "Latitude": 56.10818712139423,
+      "Longitude": -5.139773639423077,
+      "count": 833
+    },
+    {
+      "city": "West Dunbartonshire",
+      "Latitude": 55.940593440060695,
+      "Longitude": -4.48609873292868,
+      "count": 659
+    },
+    {
+      "city": "North Lanarkshire",
+      "Latitude": 55.84766253168469,
+      "Longitude": -3.9878733894899536,
+      "count": 2588
+    },
+    {
+      "city": "South Lanarkshire",
+      "Latitude": 55.75153257503263,
+      "Longitude": -4.03103844584602,
+      "count": 2299
+    },
+    {
+      "city": "North Ayrshire",
+      "Latitude": 55.66898320316027,
+      "Longitude": -4.732499251693002,
+      "count": 886
+    },
+    {
+      "city": "East Ayrshire",
+      "Latitude": 55.55978290899001,
+      "Longitude": -4.429440274139845,
+      "count": 901
+    },
+    {
+      "city": "South Ayrshire",
+      "Latitude": 55.450695915448854,
+      "Longitude": -4.627722315240083,
+      "count": 958
+    },
+    {
+      "city": "Dumfries and Galloway",
+      "Latitude": 55.04012699020409,
+      "Longitude": -3.7714317224489804,
+      "count": 1225
+    },
+    {
+      "city": "Cheshire East",
+      "Latitude": 53.19426965294117,
+      "Longitude": -2.340620517927171,
+      "count": 3570
+    },
+    {
+      "city": "Cheshire West and Chester",
+      "Latitude": 53.22850419690123,
+      "Longitude": -2.7691073395739187,
+      "count": 3098
+    },
+    {
+      "city": "Northumberland",
+      "Latitude": 55.17279983204033,
+      "Longitude": -1.742629723429015,
+      "count": 2578
+    },
+    {
+      "city": "County Durham",
+      "Latitude": 54.75629679751381,
+      "Longitude": -1.600881250276243,
+      "count": 3620
+    },
+    {
+      "city": "Shropshire",
+      "Latitude": 52.69685331614051,
+      "Longitude": -2.7057918888394843,
+      "count": 2249
+    },
+    {
+      "city": "Central Bedfordshire",
+      "Latitude": 51.969750507649515,
+      "Longitude": -0.4770447473342605,
+      "count": 2157
+    },
+    {
+      "city": "Cornwall",
+      "Latitude": 50.34407732169313,
+      "Longitude": -4.914027697989418,
+      "count": 4725
+    },
+    {
+      "city": "Wiltshire",
+      "Latitude": 51.30992684788806,
+      "Longitude": -1.9902801269759005,
+      "count": 3859
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+<html>
+<head>
+    <script type="application/javascript" src=../js/d3.js></script>
+    <style>
+        .axis path, line {
+            stroke: black;
+        }
+
+        .graghe_svg path {
+            stroke-width: 3px;
+        }
+
+        .graghe_svg circle {
+            stroke: white;
+        }
+
+        .graghe_svg text {
+            fill: white;
+            stroke: none;
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .line {
+            float: left;
+        }
+
+        .line_container {
+            width: 150px;
+            height: 20px;
+        }
+
+        path {
+            fill: none;
+        }
+
+        .legend {
+            float: right;
+            font-size: 17px;
+            width: 100%;
+        }
+
+        .key_line {
+            font-size: 17px;
+            width: 100%;
+        }
+
+        .sex {
+            height: 10px;
+            width: 10px;
+            outline: solid 1px black;
+            float: left;
+            margin-right: 10px;
+            margin-top: 6px;
+            margin-left: 10px;
+        }
+
+        #graghe_svg {
+            float: left;
+        }
+
+        path.female {
+            stroke: #ff1e5a;
+            background-color: #ff1e5a;
+        }
+
+        #time_male circle {
+            stroke: #2feeff;
+            fill: #3944ff;
+            background-color: #3944ff;
+        }
+
+        #time_female circle {
+            stroke: #fc18ff;
+            fill: #ff76a0;
+            background-color: #fc18ff;
+        }
+
+        path.male {
+            stroke: #2feeff;
+            background-color: #3944ff;
+        }
+
+        .female_l {
+            stroke: #ff1e5a;
+            background-color: #ff1e5a;
+            color: white;
+
+        }
+
+        .male_l {
+            stroke: #2feeff;
+            fill: #3944ff;
+            background-color: #3944ff;
+            color: white;
+
+        }
+
+        div.tooltip {
+            font-size: 17px;
+            width: 100%;
+        }
+
+        .key_sex {
+            width: 100px;
+
+
+        }
+
+    </style>
+    <script>
+        var count_scale;
+        var time_scale;
+        var line;
+
+
+        function get_male_data(d, i) {
+            var div = d3.select("body").append("div")
+                .attr("class", "tooltip")
+                .style("opacity", 0);
+            var ts = d3.select('#time_male')
+            // toggle
+            if (ts.empty()) {
+                d3.json('../data/year_count.json', function (data) {
+                    d3.select("svg").append('g')
+                        .attr('id', 'time_male')
+                        .selectAll("circle.male")
+                        .data(data.male)
+                        .enter()
+                        .append("circle")
+                        .attr("class", "male").attr("cy", function (d) {
+                        return count_scale(d.count);
+                    })
+                        .attr("cx", function (d) {
+                            return time_scale(new Date(d.year));
+                        })
+
+                        .attr("r", 5);
+                    d3.select("#time_male")
+                        .append('path')
+                        .attr('d', line(data.male))
+                        .attr('class', 'male');
+                    d3.selectAll('circle')
+                        .on('mouseover', function (d) {
+                            d3.select(this)
+                                .transition().attr('r', 9);
+                            div.transition()
+                                .duration(20)
+                                .style("opacity", .9);
+                            div.html(d.count)
+                                .style("left", (d3.event.pageX) + "px")
+                                .style("top", (d3.event.pageY - 28) + "px");
+                        })
+                        .on('mouseout', function (d, i) {
+                            if (i !== data.length - 1) {
+                                d3.select(this).transition().attr('r', 5);
+                                div.transition()
+                                    .duration(50)
+                                    .style("opacity", 0);
+
+                            }
+                        })
+
+
+                })
+            } else {
+                ts.remove()
+            }
+        }
+
+        function get_female_data(d, i) {
+
+
+            var div = d3.select("body").append("div")
+                .attr("class", "tooltip")
+                .style("opacity", 0);
+            var ts = d3.select('#time_female')
+            // toggle
+            if (ts.empty()) {
+                d3.json('../data/year_count.json', function (data) {
+                    d3.select("svg").append('g')
+                        .attr('id', 'time_female')
+                        .selectAll("circle.female")
+                        .data(data.female)
+                        .enter()
+                        .append("circle")
+                        .attr("class", "female").attr("cy", function (d) {
+                        return count_scale(d.count);
+                    })
+                        .attr("cx", function (d) {
+                            return time_scale(new Date(d.year));
+                        })
+                        .attr("r", 5);
+                    d3.select("#time_female")
+                        .append('path')
+                        .attr('d', line(data.female))
+                        .attr('class', 'female');
+                    d3.selectAll('circle')
+                        .on('mouseover', function (d) {
+                            d3.select(this)
+                                .transition().attr('r', 9);
+                            div.transition()
+                                .duration(20)
+                                .style("opacity", .9);
+                            div.html(d.count)
+                                .style("left", (d3.event.pageX) + "px")
+                                .style("top", (d3.event.pageY - 28) + "px");
+                        })
+                        .on('mouseout', function (d, i) {
+                            if (i !== data.length - 1) {
+                                d3.select(this).transition().attr('r', 5);
+                                div.transition()
+                                    .duration(50)
+                                    .style("opacity", 0);
+                            }
+                        })
+                })
+            } else {
+                ts.remove()
+            }
+        }
+
+        function draw(data) {
+            var container_dimensions = {width: 900, height: 400},
+                margins = {top: 30, right: 20, bottom: 100, left: 120},
+                chart_dimensions = {
+                    width: container_dimensions.width - margins.left - margins.right,
+                    height: container_dimensions.height - margins.top - margins.bottom
+                };
+            var x_extend = d3.extent(data.female.concat(data.male), function (d) {
+                return new Date(d.year);
+            });
+            var y_extend = d3.extent(data.female.concat(data.male), function (d) {
+                return d.count;
+            });
+
+            time_scale = d3.time.scale()
+                .range([margins.left, chart_dimensions.width])
+                .domain(x_extend);
+
+            count_scale = d3.scale.linear()
+                .range([chart_dimensions.height, margins.top])
+                .domain(y_extend);
+
+            var time_axis = d3.svg.axis()
+                .scale(time_scale);
+
+            var count_axis = d3.svg.axis()
+                .scale(count_scale)
+                .orient("left");
+            line = d3.svg.line()
+                .x(function (d) {
+                    return time_scale(new Date(d.year))
+                })
+                .y(function (d) {
+                    return count_scale(d.count)
+                })
+                .interpolate("linear");
+
+
+            var g = d3.select('#graphe_svg')
+                .append('svg')
+                .attr("width", container_dimensions.width)
+                .attr("height", container_dimensions.height)
+                .append("g")
+                .attr("transform", "translate(" + margins.left + "," + margins.top + ")")
+                .attr("id", "chart");
+
+            g.append("g")
+                .attr("class", "x axis")
+                .attr("transform", "translate(-120," + chart_dimensions.height + ")")
+                .call(time_axis);
+
+            g.append("g")
+                .attr("class", "y axis")
+                .call(count_axis);
+
+            d3.select('.y.axis')
+                .append('text')
+                .text("Nombre d'accidents")
+                .attr('transform', "rotate (-270, 0, 0)")
+                .attr('x', 100)
+                .attr('y', 90);
+            d3.select('.x.axis')
+                .append('text')
+                .text('Années')
+                .attr('x', 400)
+                .attr('y', 50);
+
+
+            d3.select('#key_male')
+                .on('click', get_male_data);
+            d3.select('#key_female')
+                .on('click', get_female_data);
+
+        }
+    </script>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <title>Visualisation</title>
+</head>
+
+
+<body>
+<script>
+    d3.json('../data/year_count.json', draw);
+</script>
+
+<div class="container">
+    <div class="text-center mt-5">
+        <h3 class="mb-5"> Number of road accidents from 2006-2017 in United Kingdom </h3>
+
+
+        <div style="float: right" id="legend">
+            <div class='key_sex' style="cursor:pointer;" id="key_male">
+                <div class="key_label male_l mb-5">MEN</div>
+            </div>
+
+            <div class='key_sex' style="cursor:pointer;" id="key_female">
+                <div class="key_label female_l">WOMEN</div>
+            </div>
+        </div>
+        <div id='graphe_svg'>
+        </div>
+    </div>
+
+</div>
+
+
+<script type="application/javascript" src="../../js/jquery-3.3.1.slim.min.js"></script>
+<script type="application/javascript" src="../../js/popper.min.js"></script>
+<script type="application/javascript" src="../../js/bootstrap.js"></script>
+</body>
+
+</html>
